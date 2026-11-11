@@ -1,0 +1,573 @@
+{
+  "forecast_id": "T3v3-2026-0041",
+  "forecast": "LASSO regression -> Health Informatics",
+  "study": "L1 logistic regression on medical abstract text classification",
+  "seed": 20261107,
+  "data_audit": {
+    "raw_rows": 14438,
+    "raw_train_rows": 11550,
+    "raw_test_rows": 2888,
+    "normalized_unique_texts": 11227,
+    "duplicate_text_groups": 2929,
+    "ambiguous_label_groups_excluded": 2929,
+    "same_label_duplicate_groups_collapsed": 0,
+    "cross_split_normalized_texts_in_original_split": 988,
+    "analysis_rows": 8298,
+    "analysis_class_counts": {
+      "1": 2195,
+      "2": 699,
+      "3": 1049,
+      "4": 1961,
+      "5": 2394
+    }
+  },
+  "split": {
+    "train": 6638,
+    "test": 1660,
+    "test_fraction": 0.2,
+    "stratified": true
+  },
+  "preprocessing": {
+    "normalization": "casefold and whitespace collapse for deduplication only",
+    "tfidf": "unigrams+bigrams, min_df=2, max_df=0.98, max_features=50000, sublinear_tf=True, no stop-word removal",
+    "solver": "liblinear one-vs-rest",
+    "C_grid": [
+      0.03,
+      0.3,
+      3.0
+    ],
+    "training_cv": "3-fold stratified, seed 20261107, macro-F1"
+  },
+  "tuning": {
+    "lasso_l1": {
+      "best_C": 3.0,
+      "best_train_cv_macro_f1": 0.7760371948704469,
+      "cv_results": [
+        {
+          "C": 0.03,
+          "mean_macro_f1": 0.08955921898748977,
+          "std_macro_f1": 6.613883139824881e-05
+        },
+        {
+          "C": 0.3,
+          "mean_macro_f1": 0.4551388611773947,
+          "std_macro_f1": 0.004921215563665883
+        },
+        {
+          "C": 3.0,
+          "mean_macro_f1": 0.7760371948704469,
+          "std_macro_f1": 0.004030383881388468
+        }
+      ]
+    },
+    "ridge_l2": {
+      "best_C": 3.0,
+      "best_train_cv_macro_f1": 0.7376647717698627,
+      "cv_results": [
+        {
+          "C": 0.03,
+          "mean_macro_f1": 0.3579518688549171,
+          "std_macro_f1": 0.001651283025432871
+        },
+        {
+          "C": 0.3,
+          "mean_macro_f1": 0.47028866212444864,
+          "std_macro_f1": 0.003495445543567762
+        },
+        {
+          "C": 3.0,
+          "mean_macro_f1": 0.7376647717698627,
+          "std_macro_f1": 0.010448446279194779
+        }
+      ]
+    }
+  },
+  "test_metrics": {
+    "lasso_l1": {
+      "accuracy": 0.8078313253012048,
+      "balanced_accuracy": 0.770468215239168,
+      "macro_f1": 0.7908149236268622,
+      "weighted_f1": 0.8080018132124763,
+      "macro_ovr_auc": 0.952109806743479,
+      "log_loss": 0.5574360696808728,
+      "confusion_matrix": [
+        [
+          377,
+          9,
+          2,
+          4,
+          47
+        ],
+        [
+          5,
+          94,
+          1,
+          4,
+          36
+        ],
+        [
+          6,
+          0,
+          128,
+          8,
+          68
+        ],
+        [
+          2,
+          1,
+          1,
+          353,
+          35
+        ],
+        [
+          20,
+          7,
+          28,
+          35,
+          389
+        ]
+      ],
+      "classification_report": {
+        "Neoplasms": {
+          "precision": 0.9195121951219513,
+          "recall": 0.8587699316628702,
+          "f1-score": 0.8881036513545347,
+          "support": 439.0
+        },
+        "Digestive system diseases": {
+          "precision": 0.8468468468468469,
+          "recall": 0.6714285714285714,
+          "f1-score": 0.749003984063745,
+          "support": 140.0
+        },
+        "Nervous system diseases": {
+          "precision": 0.8,
+          "recall": 0.6095238095238096,
+          "f1-score": 0.6918918918918919,
+          "support": 210.0
+        },
+        "Cardiovascular diseases": {
+          "precision": 0.8737623762376238,
+          "recall": 0.9005102040816326,
+          "f1-score": 0.8869346733668342,
+          "support": 392.0
+        },
+        "General pathological conditions": {
+          "precision": 0.6765217391304348,
+          "recall": 0.8121085594989561,
+          "f1-score": 0.7381404174573055,
+          "support": 479.0
+        },
+        "accuracy": 0.8078313253012048,
+        "macro avg": {
+          "precision": 0.8233286314673715,
+          "recall": 0.770468215239168,
+          "f1-score": 0.7908149236268622,
+          "support": 1660.0
+        },
+        "weighted avg": {
+          "precision": 0.8173452871962181,
+          "recall": 0.8078313253012048,
+          "f1-score": 0.8080018132124763,
+          "support": 1660.0
+        }
+      }
+    },
+    "ridge_l2": {
+      "accuracy": 0.7933734939759036,
+      "balanced_accuracy": 0.7277314616622326,
+      "macro_f1": 0.7580075391955798,
+      "weighted_f1": 0.7903139094683098,
+      "macro_ovr_auc": 0.9564579580386289,
+      "log_loss": 0.6577551661087074,
+      "confusion_matrix": [
+        [
+          388,
+          3,
+          3,
+          3,
+          42
+        ],
+        [
+          8,
+          69,
+          1,
+          4,
+          58
+        ],
+        [
+          6,
+          0,
+          114,
+          10,
+          80
+        ],
+        [
+          4,
+          0,
+          1,
+          349,
+          38
+        ],
+        [
+          24,
+          4,
+          23,
+          31,
+          397
+        ]
+      ],
+      "classification_report": {
+        "Neoplasms": {
+          "precision": 0.9023255813953488,
+          "recall": 0.8838268792710706,
+          "f1-score": 0.8929804372842347,
+          "support": 439.0
+        },
+        "Digestive system diseases": {
+          "precision": 0.9078947368421053,
+          "recall": 0.4928571428571429,
+          "f1-score": 0.6388888888888888,
+          "support": 140.0
+        },
+        "Nervous system diseases": {
+          "precision": 0.8028169014084507,
+          "recall": 0.5428571428571428,
+          "f1-score": 0.6477272727272727,
+          "support": 210.0
+        },
+        "Cardiovascular diseases": {
+          "precision": 0.8790931989924433,
+          "recall": 0.8903061224489796,
+          "f1-score": 0.8846641318124208,
+          "support": 392.0
+        },
+        "General pathological conditions": {
+          "precision": 0.6455284552845528,
+          "recall": 0.8288100208768268,
+          "f1-score": 0.7257769652650823,
+          "support": 479.0
+        },
+        "accuracy": 0.7933734939759036,
+        "macro avg": {
+          "precision": 0.8275317747845803,
+          "recall": 0.7277314616622326,
+          "f1-score": 0.7580075391955798,
+          "support": 1660.0
+        },
+        "weighted avg": {
+          "precision": 0.8106207269714254,
+          "recall": 0.7933734939759036,
+          "f1-score": 0.7903139094683098,
+          "support": 1660.0
+        }
+      }
+    }
+  },
+  "paired_macro_f1_bootstrap": {
+    "n_bootstrap": 2000,
+    "difference_l1_minus_l2": 0.032807384431282394,
+    "ci95_percentile": [
+      0.01423032526337619,
+      0.053085833188803194
+    ]
+  },
+  "lasso_sparsity": {
+    "nonzero_coefficients_all_classes": 2201,
+    "total_coefficients": 250000,
+    "fraction_nonzero": 0.008804,
+    "nonzero_features_per_class": {
+      "1": 389,
+      "2": 190,
+      "3": 391,
+      "4": 366,
+      "5": 865
+    }
+  },
+  "lasso_selected_vocabulary_stability": {
+    "fold_nonzero_features_per_class": [
+      {
+        "1": 282,
+        "2": 133,
+        "3": 262,
+        "4": 209,
+        "5": 563
+      },
+      {
+        "1": 242,
+        "2": 140,
+        "3": 246,
+        "4": 246,
+        "5": 580
+      },
+      {
+        "1": 249,
+        "2": 128,
+        "3": 268,
+        "4": 232,
+        "5": 549
+      }
+    ],
+    "mean_pairwise_jaccard_union_vocabulary": 0.35798086373432936,
+    "pairwise_jaccard": [
+      0.3583815028901734,
+      0.3644012944983819,
+      0.35115979381443296
+    ],
+    "note": "three training folds; overlap describes feature selection, not causal stability"
+  },
+  "lasso_top_positive_terms_by_class": {
+    "1": [
+      {
+        "term": "cancer",
+        "coefficient": 45.76941462677303
+      },
+      {
+        "term": "carcinoma",
+        "coefficient": 35.723408651704695
+      },
+      {
+        "term": "tumor",
+        "coefficient": 34.49360034975792
+      },
+      {
+        "term": "melanoma",
+        "coefficient": 25.259904311813774
+      },
+      {
+        "term": "leukemia",
+        "coefficient": 21.807157982289226
+      },
+      {
+        "term": "tumors",
+        "coefficient": 21.11505453753659
+      },
+      {
+        "term": "sarcoma",
+        "coefficient": 18.785837841017134
+      },
+      {
+        "term": "lymphoblastic",
+        "coefficient": 18.62395959413357
+      },
+      {
+        "term": "metastases",
+        "coefficient": 14.16500927009886
+      },
+      {
+        "term": "cyst",
+        "coefficient": 13.004639027275804
+      },
+      {
+        "term": "pheochromocytoma",
+        "coefficient": 12.655936750781976
+      },
+      {
+        "term": "malignancy",
+        "coefficient": 12.35744448808158
+      }
+    ],
+    "2": [
+      {
+        "term": "diarrhea",
+        "coefficient": 34.02148782265318
+      },
+      {
+        "term": "colitis",
+        "coefficient": 32.95058926724137
+      },
+      {
+        "term": "cirrhosis",
+        "coefficient": 28.389240838088625
+      },
+      {
+        "term": "hepatitis",
+        "coefficient": 22.11791720979358
+      },
+      {
+        "term": "esophageal",
+        "coefficient": 21.750309156398966
+      },
+      {
+        "term": "gallstones",
+        "coefficient": 21.203133561116974
+      },
+      {
+        "term": "peritonitis",
+        "coefficient": 20.291144039887126
+      },
+      {
+        "term": "bowel",
+        "coefficient": 18.994195229344186
+      },
+      {
+        "term": "gastric",
+        "coefficient": 17.50502186512338
+      },
+      {
+        "term": "gastrointestinal",
+        "coefficient": 16.91367916106113
+      },
+      {
+        "term": "dysphagia",
+        "coefficient": 15.40484258801853
+      },
+      {
+        "term": "pancreatitis",
+        "coefficient": 14.946203969089105
+      }
+    ],
+    "3": [
+      {
+        "term": "stroke",
+        "coefficient": 24.676582264161826
+      },
+      {
+        "term": "seizures",
+        "coefficient": 21.27576620571818
+      },
+      {
+        "term": "brain",
+        "coefficient": 18.532279200418255
+      },
+      {
+        "term": "meningitis",
+        "coefficient": 18.48699706012425
+      },
+      {
+        "term": "seizure",
+        "coefficient": 17.07280277022197
+      },
+      {
+        "term": "pain",
+        "coefficient": 16.78738211459503
+      },
+      {
+        "term": "migraine",
+        "coefficient": 16.498840519055047
+      },
+      {
+        "term": "parkinson disease",
+        "coefficient": 16.176729672916288
+      },
+      {
+        "term": "headache",
+        "coefficient": 16.152331965544047
+      },
+      {
+        "term": "sleep",
+        "coefficient": 15.247184071433033
+      },
+      {
+        "term": "myasthenia",
+        "coefficient": 15.071552165094689
+      },
+      {
+        "term": "epilepsy",
+        "coefficient": 14.932818020331252
+      }
+    ],
+    "4": [
+      {
+        "term": "hypertension",
+        "coefficient": 35.417702204670775
+      },
+      {
+        "term": "hypertensive",
+        "coefficient": 33.605000839816306
+      },
+      {
+        "term": "myocardial",
+        "coefficient": 32.50903423385234
+      },
+      {
+        "term": "tachycardia",
+        "coefficient": 25.890270874264292
+      },
+      {
+        "term": "endocarditis",
+        "coefficient": 23.442390628067933
+      },
+      {
+        "term": "coronary",
+        "coefficient": 21.017579163269705
+      },
+      {
+        "term": "raynaud",
+        "coefficient": 19.643122722056063
+      },
+      {
+        "term": "aortic",
+        "coefficient": 18.838509976299708
+      },
+      {
+        "term": "heart",
+        "coefficient": 18.344110949026327
+      },
+      {
+        "term": "subarachnoid hemorrhage",
+        "coefficient": 18.134118207213895
+      },
+      {
+        "term": "cardiovascular",
+        "coefficient": 18.1133913187796
+      },
+      {
+        "term": "vasculitis",
+        "coefficient": 17.375082919296478
+      }
+    ],
+    "5": [
+      {
+        "term": "postoperative",
+        "coefficient": 14.93945185766168
+      },
+      {
+        "term": "deletion",
+        "coefficient": 14.818088191732992
+      },
+      {
+        "term": "recurrent",
+        "coefficient": 12.089517244325082
+      },
+      {
+        "term": "hemorrhage",
+        "coefficient": 12.083125612943517
+      },
+      {
+        "term": "airway",
+        "coefficient": 11.684415337474638
+      },
+      {
+        "term": "hypoxia",
+        "coefficient": 11.482457276847187
+      },
+      {
+        "term": "facial",
+        "coefficient": 10.764265174009932
+      },
+      {
+        "term": "transformation",
+        "coefficient": 10.751251299173674
+      },
+      {
+        "term": "malignant hyperthermia",
+        "coefficient": 10.677017244806473
+      },
+      {
+        "term": "oxygen saturation",
+        "coefficient": 10.380579709334596
+      },
+      {
+        "term": "arthroplasties",
+        "coefficient": 9.784387156881026
+      },
+      {
+        "term": "retroperitoneal fibrosis",
+        "coefficient": 9.681699117636292
+      }
+    ]
+  },
+  "warnings": [],
+  "interpretation_limit": "Curated broad-topic abstract classification only; not patient diagnosis or clinical decision support."
+}

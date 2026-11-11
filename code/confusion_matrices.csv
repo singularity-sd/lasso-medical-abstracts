@@ -1,0 +1,51 @@
+model,actual,predicted,count
+lasso_l1,Neoplasms,Neoplasms,377
+lasso_l1,Neoplasms,Digestive system diseases,9
+lasso_l1,Neoplasms,Nervous system diseases,2
+lasso_l1,Neoplasms,Cardiovascular diseases,4
+lasso_l1,Neoplasms,General pathological conditions,47
+lasso_l1,Digestive system diseases,Neoplasms,5
+lasso_l1,Digestive system diseases,Digestive system diseases,94
+lasso_l1,Digestive system diseases,Nervous system diseases,1
+lasso_l1,Digestive system diseases,Cardiovascular diseases,4
+lasso_l1,Digestive system diseases,General pathological conditions,36
+lasso_l1,Nervous system diseases,Neoplasms,6
+lasso_l1,Nervous system diseases,Digestive system diseases,0
+lasso_l1,Nervous system diseases,Nervous system diseases,128
+lasso_l1,Nervous system diseases,Cardiovascular diseases,8
+lasso_l1,Nervous system diseases,General pathological conditions,68
+lasso_l1,Cardiovascular diseases,Neoplasms,2
+lasso_l1,Cardiovascular diseases,Digestive system diseases,1
+lasso_l1,Cardiovascular diseases,Nervous system diseases,1
+lasso_l1,Cardiovascular diseases,Cardiovascular diseases,353
+lasso_l1,Cardiovascular diseases,General pathological conditions,35
+lasso_l1,General pathological conditions,Neoplasms,20
+lasso_l1,General pathological conditions,Digestive system diseases,7
+lasso_l1,General pathological conditions,Nervous system diseases,28
+lasso_l1,General pathological conditions,Cardiovascular diseases,35
+lasso_l1,General pathological conditions,General pathological conditions,389
+ridge_l2,Neoplasms,Neoplasms,388
+ridge_l2,Neoplasms,Digestive system diseases,3
+ridge_l2,Neoplasms,Nervous system diseases,3
+ridge_l2,Neoplasms,Cardiovascular diseases,3
+ridge_l2,Neoplasms,General pathological conditions,42
+ridge_l2,Digestive system diseases,Neoplasms,8
+ridge_l2,Digestive system diseases,Digestive system diseases,69
+ridge_l2,Digestive system diseases,Nervous system diseases,1
+ridge_l2,Digestive system diseases,Cardiovascular diseases,4
+ridge_l2,Digestive system diseases,General pathological conditions,58
+ridge_l2,Nervous system diseases,Neoplasms,6
+ridge_l2,Nervous system diseases,Digestive system diseases,0
+ridge_l2,Nervous system diseases,Nervous system diseases,114
+ridge_l2,Nervous system diseases,Cardiovascular diseases,10
+ridge_l2,Nervous system diseases,General pathological conditions,80
+ridge_l2,Cardiovascular diseases,Neoplasms,4
+ridge_l2,Cardiovascular diseases,Digestive system diseases,0
+ridge_l2,Cardiovascular diseases,Nervous system diseases,1
+ridge_l2,Cardiovascular diseases,Cardiovascular diseases,349
+ridge_l2,Cardiovascular diseases,General pathological conditions,38
+ridge_l2,General pathological conditions,Neoplasms,24
+ridge_l2,General pathological conditions,Digestive system diseases,4
+ridge_l2,General pathological conditions,Nervous system diseases,23
+ridge_l2,General pathological conditions,Cardiovascular diseases,31
+ridge_l2,General pathological conditions,General pathological conditions,397

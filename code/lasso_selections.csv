@@ -1,0 +1,2202 @@
+class_id,class_name,term,coefficient
+1,Neoplasms,cancer,45.76941462677303
+1,Neoplasms,carcinoma,35.723408651704695
+1,Neoplasms,tumor,34.49360034975792
+1,Neoplasms,melanoma,25.259904311813774
+1,Neoplasms,leukemia,21.807157982289226
+1,Neoplasms,tumors,21.11505453753659
+1,Neoplasms,sarcoma,18.785837841017134
+1,Neoplasms,lymphoblastic,18.62395959413357
+1,Neoplasms,metastases,14.16500927009886
+1,Neoplasms,cyst,13.004639027275804
+1,Neoplasms,pheochromocytoma,12.655936750781976
+1,Neoplasms,malignancy,12.35744448808158
+1,Neoplasms,cells,12.221999568941557
+1,Neoplasms,human,11.86187736357845
+1,Neoplasms,myeloma,11.563936533623908
+1,Neoplasms,tumours,11.467968279954286
+1,Neoplasms,polycystic,11.203089189189225
+1,Neoplasms,carcinomas,11.045593873690304
+1,Neoplasms,cytologic,10.412511039245379
+1,Neoplasms,neoplasms,10.198234225622237
+1,Neoplasms,tumour,10.170513971787436
+1,Neoplasms,lesions,9.880135878815073
+1,Neoplasms,adenocarcinoma,9.45814289574747
+1,Neoplasms,chondrosarcoma,9.40206041521953
+1,Neoplasms,papillomavirus,9.320237884388082
+1,Neoplasms,radiation,9.315619026409927
+1,Neoplasms,breast,9.005607433165347
+1,Neoplasms,leukemic,8.939818925387074
+1,Neoplasms,lymph,8.79469032582916
+1,Neoplasms,malignancies,8.296486109858382
+1,Neoplasms,survival,8.281117630955881
+1,Neoplasms,nm,8.268151994180231
+1,Neoplasms,neoplasia,8.07930524826741
+1,Neoplasms,marrow,7.998446873588727
+1,Neoplasms,chemotherapy,7.996435598621391
+1,Neoplasms,marrow transplant,7.925452997352039
+1,Neoplasms,lymphoma,7.821952086430045
+1,Neoplasms,masses,7.686150271473291
+1,Neoplasms,mg m2,7.578047024501983
+1,Neoplasms,smears,7.5717263205782155
+1,Neoplasms,cell,7.563339234930565
+1,Neoplasms,head and,7.44186944571553
+1,Neoplasms,zollinger ellison,7.40738548502852
+1,Neoplasms,dose,7.166051331304467
+1,Neoplasms,hamartoma,6.901290054412973
+1,Neoplasms,cancers,6.87697934121607
+1,Neoplasms,staining,6.792586126421799
+1,Neoplasms,reviewed and,6.770264768484027
+1,Neoplasms,port,6.71930811097954
+1,Neoplasms,hormone,6.492018041242596
+1,Neoplasms,lipoma,6.460465480099937
+1,Neoplasms,contains,6.433755524416929
+1,Neoplasms,screening,6.3522863069095
+1,Neoplasms,insulinoma,6.319674073870754
+1,Neoplasms,neoplasm,6.307345078359909
+1,Neoplasms,ct,6.174632163839058
+1,Neoplasms,leiomyomas,6.162509950006283
+1,Neoplasms,cystic,6.1392496927324425
+1,Neoplasms,cin,6.092798343875663
+1,Neoplasms,laser,5.933510527139233
+1,Neoplasms,osteoma,5.889846681843424
+1,Neoplasms,thyroid,5.8460231351657885
+1,Neoplasms,mammography,5.84504710644178
+1,Neoplasms,papillomas,5.667804118000805
+1,Neoplasms,lesion,5.640441328903644
+1,Neoplasms,cases,5.610697253623803
+1,Neoplasms,epo,5.5980771791955295
+1,Neoplasms,benign,5.576263391642274
+1,Neoplasms,receptors,5.572188528679691
+1,Neoplasms,insulin,5.54330965494458
+1,Neoplasms,metastasis,5.503075791516764
+1,Neoplasms,cervical,5.485580479396438
+1,Neoplasms,flap,5.429610271012205
+1,Neoplasms,gadopentetate,5.348326830543024
+1,Neoplasms,dysplastic,5.236029084923875
+1,Neoplasms,excision,5.223213739327294
+1,Neoplasms,polyp,5.176934090204915
+1,Neoplasms,diagnosed,5.05850668605536
+1,Neoplasms,erythroleukemia,4.9754842098172825
+1,Neoplasms,malignant,4.907910206397603
+1,Neoplasms,salvage,4.872626141141087
+1,Neoplasms,colorectal,4.839002070834088
+1,Neoplasms,only one,4.813138011426701
+1,Neoplasms,local,4.693074482403193
+1,Neoplasms,report,4.639872896711505
+1,Neoplasms,transcription,4.506066970695217
+1,Neoplasms,cushing,4.359300684022521
+1,Neoplasms,oral,4.305066788683613
+1,Neoplasms,gastrinomas,4.217471175112289
+1,Neoplasms,fold,4.183331601264928
+1,Neoplasms,are,4.102020102774941
+1,Neoplasms,m2,4.099011652025411
+1,Neoplasms,staging,4.031011525375816
+1,Neoplasms,doses,3.9426872152694976
+1,Neoplasms,dna,3.9317573793003526
+1,Neoplasms,has,3.8581386387478718
+1,Neoplasms,sinuses,3.8121420078581414
+1,Neoplasms,port wine,3.7251209412567254
+1,Neoplasms,limb,3.625953870427539
+1,Neoplasms,glioma,3.6058811067849934
+1,Neoplasms,recurrence,3.4835406829097177
+1,Neoplasms,exposure,3.4066413380151377
+1,Neoplasms,hl 60,3.390872479100648
+1,Neoplasms,ameloblastoma,3.367195706193084
+1,Neoplasms,cutaneous,3.2841069486511443
+1,Neoplasms,literature,3.2840112898040115
+1,Neoplasms,women,3.2649284097380047
+1,Neoplasms,hygroma,3.23344343252512
+1,Neoplasms,new,3.1935861099481504
+1,Neoplasms,stage,3.1908463538400054
+1,Neoplasms,mesothelioma,3.180110210791111
+1,Neoplasms,hl,3.1475945332391553
+1,Neoplasms,lymphocytic leukemia,3.13203937999356
+1,Neoplasms,neoplastic,3.1093887273996494
+1,Neoplasms,toxicity,3.0850883775131552
+1,Neoplasms,all,3.075435187151305
+1,Neoplasms,imaging of,3.0630177644854264
+1,Neoplasms,it,3.044072594948189
+1,Neoplasms,gamma,3.0169879695684614
+1,Neoplasms,health,2.9682694011601467
+1,Neoplasms,cd4,2.9504387445819282
+1,Neoplasms,cushing syndrome,2.9441416981737816
+1,Neoplasms,area,2.9352833652283885
+1,Neoplasms,computed,2.91587640181406
+1,Neoplasms,year old,2.865127689456627
+1,Neoplasms,positive for,2.8412320729408465
+1,Neoplasms,mycosis,2.820061908597564
+1,Neoplasms,ovarian,2.816698322376979
+1,Neoplasms,osteosarcoma,2.8098417778049622
+1,Neoplasms,60,2.7548137424633556
+1,Neoplasms,and neck,2.698661591016211
+1,Neoplasms,ovarian cysts,2.5479433447273676
+1,Neoplasms,rhabdomyosarcoma,2.526354059236634
+1,Neoplasms,mass,2.5026991658562934
+1,Neoplasms,of this,2.4429787841080866
+1,Neoplasms,expression,2.4068443344739556
+1,Neoplasms,cysts,2.3478860783689695
+1,Neoplasms,recombinant,2.3151847439518436
+1,Neoplasms,protein kinase,2.310632401894401
+1,Neoplasms,reconstruction,2.2650907564466913
+1,Neoplasms,binding,2.151130817033086
+1,Neoplasms,adenoma,2.129048795101808
+1,Neoplasms,high,2.07649814924488
+1,Neoplasms,35s,2.0179953359551743
+1,Neoplasms,expressed,1.9823990298842524
+1,Neoplasms,mycosis fungoides,1.978360103663366
+1,Neoplasms,cell lymphoma,1.9215895381360322
+1,Neoplasms,hpv,1.8926075636905468
+1,Neoplasms,ellison syndrome,1.88446279840145
+1,Neoplasms,ra,1.8753220257127086
+1,Neoplasms,pituitary,1.8389376920402207
+1,Neoplasms,knowledge,1.832683144556211
+1,Neoplasms,in situ,1.7960393918703756
+1,Neoplasms,two,1.7725062809132535
+1,Neoplasms,fungoides,1.7657138876589955
+1,Neoplasms,testosterone,1.693054878611172
+1,Neoplasms,hysterectomy,1.677089957798065
+1,Neoplasms,limb salvage,1.6494755276392237
+1,Neoplasms,naevi,1.6460962087765825
+1,Neoplasms,phase,1.6398450053498639
+1,Neoplasms,these cells,1.6271204531632564
+1,Neoplasms,skin,1.6202544593138457
+1,Neoplasms,irradiation,1.6099181468887502
+1,Neoplasms,clinical,1.5421080844639052
+1,Neoplasms,features,1.5389178520036715
+1,Neoplasms,solitary,1.5162772094123826
+1,Neoplasms,leukoplakia,1.5107893992700532
+1,Neoplasms,trophoblastic disease,1.4906155659531304
+1,Neoplasms,incorporation,1.4826472705041858
+1,Neoplasms,expression of,1.4645369265975454
+1,Neoplasms,reconstructive,1.3718966005273174
+1,Neoplasms,rare,1.371064055558005
+1,Neoplasms,zollinger,1.3682365901564038
+1,Neoplasms,paraffin,1.3680300100861835
+1,Neoplasms,lipomatosis,1.3359032534330522
+1,Neoplasms,year,1.2947049960671706
+1,Neoplasms,soft,1.287276446543546
+1,Neoplasms,large,1.2806175929921577
+1,Neoplasms,of new,1.2770689412154252
+1,Neoplasms,tuberous sclerosis,1.2699986054609411
+1,Neoplasms,removal of,1.2699895036017652
+1,Neoplasms,intravesical,1.2311871884341905
+1,Neoplasms,plus,1.1984222829852904
+1,Neoplasms,beta,1.1943844867814106
+1,Neoplasms,monoclonal,1.1825539390852227
+1,Neoplasms,three,1.1173442498356023
+1,Neoplasms,treatment,1.0925492953239886
+1,Neoplasms,wide,1.0582704905660796
+1,Neoplasms,hepatocellular carcinoma,1.033243228006887
+1,Neoplasms,status,1.0180467931808814
+1,Neoplasms,prognosis,0.9129472398975168
+1,Neoplasms,arising in,0.8962956918309717
+1,Neoplasms,tissue,0.8957255481232433
+1,Neoplasms,choriocarcinoma,0.8953548378315277
+1,Neoplasms,sensitivity,0.8777439265500898
+1,Neoplasms,growth,0.8682961180184713
+1,Neoplasms,differentiation,0.8529085404783242
+1,Neoplasms,sampling,0.8446416350176709
+1,Neoplasms,free,0.8217833233029591
+1,Neoplasms,precursor,0.8117634537335497
+1,Neoplasms,adenomas,0.8073641955840456
+1,Neoplasms,presented,0.7712895873003963
+1,Neoplasms,nodes,0.7694493308622591
+1,Neoplasms,our,0.6953367797666721
+1,Neoplasms,removal,0.682820021497604
+1,Neoplasms,carboplatin,0.6687104801112439
+1,Neoplasms,two patients,0.6667918815929865
+1,Neoplasms,hemangioma,0.6574336430530581
+1,Neoplasms,bone,0.646604183873969
+1,Neoplasms,resection,0.6392590593648485
+1,Neoplasms,sections,0.6269108956158699
+1,Neoplasms,tissues,0.61049159935616
+1,Neoplasms,significance,0.5995275597655868
+1,Neoplasms,childhood,0.5916241052167104
+1,Neoplasms,specific,0.5870095140330123
+1,Neoplasms,argon,0.5855841816728303
+1,Neoplasms,mrna,0.5158986252686996
+1,Neoplasms,rearrangements,0.49188491790793554
+1,Neoplasms,gm csf,0.4741503275352873
+1,Neoplasms,have,0.4582733097543821
+1,Neoplasms,arising,0.45050217606143494
+1,Neoplasms,additional,0.4273421253239594
+1,Neoplasms,plasmacytoma,0.4199205895174044
+1,Neoplasms,was observed,0.40009627538309644
+1,Neoplasms,examinations,0.39994981702598903
+1,Neoplasms,receptor,0.37637466624291643
+1,Neoplasms,these,0.3736523718806349
+1,Neoplasms,the lesion,0.36148184986375836
+1,Neoplasms,yag,0.3601381174900942
+1,Neoplasms,interferon,0.35777667391822304
+1,Neoplasms,mature,0.29810938055170794
+1,Neoplasms,treatment is,0.29546839589975
+1,Neoplasms,ebv,0.27689900719750293
+1,Neoplasms,macular,0.18356772334405713
+1,Neoplasms,of hiv,0.1789120087508543
+1,Neoplasms,ellison,0.14664314206096085
+1,Neoplasms,desmoplastic,0.13115120164527208
+1,Neoplasms,the right,0.1276253882809986
+1,Neoplasms,technique,0.11269946442559375
+1,Neoplasms,million,0.1018150372882927
+1,Neoplasms,vaginal,0.09698373215174301
+1,Neoplasms,the tumor,0.0961388054894833
+1,Neoplasms,quality,0.04350490972680508
+1,Neoplasms,southern blot,0.03913425640591511
+1,Neoplasms,mice,-0.03330718344830076
+1,Neoplasms,48,-0.05408930636683251
+1,Neoplasms,children,-0.06899444783604347
+1,Neoplasms,both,-0.06955778777573657
+1,Neoplasms,similar,-0.08701246959731015
+1,Neoplasms,endothelial,-0.10007060899023816
+1,Neoplasms,shock,-0.12979301623684383
+1,Neoplasms,virus,-0.15078739834467064
+1,Neoplasms,gene,-0.15503502783882192
+1,Neoplasms,may,-0.16184284756415632
+1,Neoplasms,19,-0.19342701012506794
+1,Neoplasms,32,-0.22206475359921532
+1,Neoplasms,palsy,-0.23587159606531383
+1,Neoplasms,cavernous,-0.25409496277432253
+1,Neoplasms,increased,-0.31392653202704085
+1,Neoplasms,days,-0.4122115810112526
+1,Neoplasms,p53,-0.4443253480765587
+1,Neoplasms,day,-0.4453908291870338
+1,Neoplasms,over,-0.4524754788454236
+1,Neoplasms,upon,-0.4534215915320975
+1,Neoplasms,neurologic,-0.46780802992294857
+1,Neoplasms,study,-0.47759987337147514
+1,Neoplasms,determine,-0.48118756890888476
+1,Neoplasms,period,-0.4914065226610328
+1,Neoplasms,risk,-0.5024664088363956
+1,Neoplasms,growth hormone,-0.527806851736738
+1,Neoplasms,atrophy,-0.5313815283442278
+1,Neoplasms,lysis,-0.5563783555422034
+1,Neoplasms,lateral,-0.6053334416009125
+1,Neoplasms,pattern of,-0.6062689047336743
+1,Neoplasms,culture,-0.6551093273618621
+1,Neoplasms,child,-0.6909754416000302
+1,Neoplasms,effusion,-0.7108501889144264
+1,Neoplasms,chromosome,-0.7752247175313444
+1,Neoplasms,traumatic,-0.7753125485143278
+1,Neoplasms,closure,-0.7940896807299664
+1,Neoplasms,infants,-0.8056623691982905
+1,Neoplasms,common,-0.8059893161802868
+1,Neoplasms,injuries,-0.8360317573334481
+1,Neoplasms,caused,-0.8603077334431056
+1,Neoplasms,complication,-0.8671342874970147
+1,Neoplasms,prolonged,-0.879357973038692
+1,Neoplasms,fractures,-0.8986644073901457
+1,Neoplasms,onset,-0.9155034626848061
+1,Neoplasms,identified,-0.9163124445832347
+1,Neoplasms,serum and,-0.9223792654196432
+1,Neoplasms,compared,-0.9331274791707139
+1,Neoplasms,although,-0.9517718124425644
+1,Neoplasms,mean,-0.9640446872369398
+1,Neoplasms,cns,-1.027633311288212
+1,Neoplasms,antibiotics,-1.0392019227226985
+1,Neoplasms,stenosis,-1.1051908263263563
+1,Neoplasms,lindau disease,-1.278645850789591
+1,Neoplasms,evidence,-1.3102453528038354
+1,Neoplasms,effective,-1.332854875957712
+1,Neoplasms,syndrome,-1.347284564198068
+1,Neoplasms,translocation,-1.4321412484430331
+1,Neoplasms,physical,-1.434979075817127
+1,Neoplasms,infection,-1.4727950420886613
+1,Neoplasms,brain,-1.4808639634429586
+1,Neoplasms,hypertensive,-1.5100212445630485
+1,Neoplasms,myocardial,-1.5466150107169447
+1,Neoplasms,hospital,-1.6052154555683775
+1,Neoplasms,symptoms,-1.6114119342455264
+1,Neoplasms,patients,-1.6114793671450802
+1,Neoplasms,morbidity,-1.650191794282638
+1,Neoplasms,valve,-1.6672846839484512
+1,Neoplasms,motor,-1.759573750309718
+1,Neoplasms,induced by,-1.8226560054809375
+1,Neoplasms,an,-1.830181195519453
+1,Neoplasms,colitis,-1.95924985676884
+1,Neoplasms,cerebral,-1.9714103314444593
+1,Neoplasms,tumor necrosis,-1.989700542593068
+1,Neoplasms,low risk,-2.024345642895441
+1,Neoplasms,mortality,-2.037048322801952
+1,Neoplasms,muscle,-2.0748448883682253
+1,Neoplasms,frequency of,-2.248000552633767
+1,Neoplasms,nerve,-2.315223462354986
+1,Neoplasms,fluid,-2.318295209325471
+1,Neoplasms,disorder,-2.334431366069842
+1,Neoplasms,chronic,-2.3722019709434816
+1,Neoplasms,response to,-2.42115223471806
+1,Neoplasms,schwannoma,-2.550445104708171
+1,Neoplasms,causes,-2.5601225633466917
+1,Neoplasms,blood,-2.6017610130250555
+1,Neoplasms,well,-2.6024328607636984
+1,Neoplasms,unknown,-2.633177843224753
+1,Neoplasms,esophageal,-2.7455366658926312
+1,Neoplasms,mucosa,-2.753471865138633
+1,Neoplasms,associated,-2.75550035004327
+1,Neoplasms,induced,-2.7592871843914883
+1,Neoplasms,excellent,-2.7800469830776833
+1,Neoplasms,pathogenesis,-2.8516508242156218
+1,Neoplasms,spontaneous,-2.898779817129515
+1,Neoplasms,impaired,-2.945772473307158
+1,Neoplasms,disease,-2.956552356145081
+1,Neoplasms,infarction,-2.976336736700064
+1,Neoplasms,mouse,-2.985983900097247
+1,Neoplasms,complication of,-3.1754427581051354
+1,Neoplasms,prostatic,-3.2993099145951166
+1,Neoplasms,ischemia,-3.373322326332913
+1,Neoplasms,normal,-3.3972129387894827
+1,Neoplasms,emergency,-3.5652234126201687
+1,Neoplasms,ventricular,-3.5955843487414403
+1,Neoplasms,cause,-3.667926203270996
+1,Neoplasms,arteries,-3.672659172535602
+1,Neoplasms,acute myeloid,-3.7612795012287257
+1,Neoplasms,bypass,-3.8090200763820583
+1,Neoplasms,postoperative,-4.049707541037165
+1,Neoplasms,oncogenes,-4.073209640657523
+1,Neoplasms,bacterial,-4.25830248405406
+1,Neoplasms,transformation,-4.322260919468018
+1,Neoplasms,pressure,-4.4022265720798
+1,Neoplasms,sinus,-4.467905516236354
+1,Neoplasms,biliary,-4.63385706737416
+1,Neoplasms,to,-4.723263120615581
+1,Neoplasms,genetic,-4.837031992407033
+1,Neoplasms,paralysis,-4.968390915390871
+1,Neoplasms,trauma,-5.251606724971996
+1,Neoplasms,artery,-5.31011311988946
+1,Neoplasms,injury,-5.444737222814343
+1,Neoplasms,aortic,-5.486350542081315
+1,Neoplasms,mutation,-5.532534685365752
+1,Neoplasms,cardiac,-5.610385927972294
+1,Neoplasms,inflammatory,-5.669215412013489
+1,Neoplasms,necrosis,-5.686327695772466
+1,Neoplasms,hearing,-5.929025622706743
+1,Neoplasms,during,-6.631057654988266
+1,Neoplasms,whose,-7.304201879596046
+1,Neoplasms,fibrosis,-7.615337633636296
+1,Neoplasms,gallbladder,-7.707128978985844
+1,Neoplasms,deletion,-7.780775327851438
+1,Neoplasms,infections,-7.959523224734581
+1,Neoplasms,acute,-8.214440236484023
+1,Neoplasms,severe,-8.316297457816393
+1,Neoplasms,subjects,-8.426669037057243
+1,Neoplasms,orchiectomy,-8.632843752569157
+1,Neoplasms,loss,-8.954987298195393
+1,Neoplasms,leptomeningeal,-9.11841735863668
+1,Neoplasms,arterial,-9.938786082592197
+1,Neoplasms,hypertension,-9.947317735916322
+1,Neoplasms,sarcoidosis,-11.672695421477684
+1,Neoplasms,pain,-12.477357882851694
+1,Neoplasms,heart,-14.63034893990071
+1,Neoplasms,coronary,-14.928881504800819
+2,Digestive system diseases,diarrhea,34.02148782265318
+2,Digestive system diseases,colitis,32.95058926724137
+2,Digestive system diseases,cirrhosis,28.389240838088625
+2,Digestive system diseases,hepatitis,22.11791720979358
+2,Digestive system diseases,esophageal,21.750309156398966
+2,Digestive system diseases,gallstones,21.203133561116974
+2,Digestive system diseases,peritonitis,20.291144039887126
+2,Digestive system diseases,bowel,18.994195229344186
+2,Digestive system diseases,gastric,17.50502186512338
+2,Digestive system diseases,gastrointestinal,16.91367916106113
+2,Digestive system diseases,dysphagia,15.40484258801853
+2,Digestive system diseases,pancreatitis,14.946203969089105
+2,Digestive system diseases,gallbladder,14.711428644815385
+2,Digestive system diseases,stones,14.70979985096719
+2,Digestive system diseases,reflux,14.619580758958774
+2,Digestive system diseases,anal,14.553527215293865
+2,Digestive system diseases,hernia,14.176401180534985
+2,Digestive system diseases,ulcer,13.559210747149907
+2,Digestive system diseases,alt,13.215793072901112
+2,Digestive system diseases,crohn disease,12.93899336580822
+2,Digestive system diseases,peritoneal,12.265141980804879
+2,Digestive system diseases,liver,12.200582673171617
+2,Digestive system diseases,coeliac disease,12.120522383643031
+2,Digestive system diseases,intraperitoneal,12.05908001023345
+2,Digestive system diseases,pylori,11.986669672195148
+2,Digestive system diseases,vesicles,11.766432895173455
+2,Digestive system diseases,gallstone,11.589632533085837
+2,Digestive system diseases,rectal,11.254593808213256
+2,Digestive system diseases,pancreatic,11.068222472306159
+2,Digestive system diseases,omeprazole,10.64355221493352
+2,Digestive system diseases,hepatic,10.43993522027144
+2,Digestive system diseases,colic,10.215706514834034
+2,Digestive system diseases,incontinence,9.64527822283436
+2,Digestive system diseases,cause,9.409014313556716
+2,Digestive system diseases,perforation,9.295193905516536
+2,Digestive system diseases,emptying,8.922891003750427
+2,Digestive system diseases,gluten,8.516880294007857
+2,Digestive system diseases,amyloidosis,8.482693900077876
+2,Digestive system diseases,biliary,8.287880691674136
+2,Digestive system diseases,duodenal,7.934613569696151
+2,Digestive system diseases,achalasia,7.918873138953889
+2,Digestive system diseases,lamblia,7.910270780778794
+2,Digestive system diseases,mucosa,7.908544046232222
+2,Digestive system diseases,colonic,7.495418210909405
+2,Digestive system diseases,gastroenteritis,7.176824175499041
+2,Digestive system diseases,liver disease,7.147830711634155
+2,Digestive system diseases,vaccine,7.147048983217231
+2,Digestive system diseases,nonsteroidal,7.039440126794783
+2,Digestive system diseases,irritable,7.035344818870247
+2,Digestive system diseases,ascites,7.010363559558543
+2,Digestive system diseases,laparoscopic,6.734483648753775
+2,Digestive system diseases,abuse,6.704553814286011
+2,Digestive system diseases,lithotripsy,6.682302753412352
+2,Digestive system diseases,inflammatory,6.669114759972939
+2,Digestive system diseases,antacids,6.378116120030368
+2,Digestive system diseases,endoscopic,6.332182655176805
+2,Digestive system diseases,caused,6.196396829986391
+2,Digestive system diseases,abdominal,6.025451095092874
+2,Digestive system diseases,and patient,5.637357712852902
+2,Digestive system diseases,fecal,5.575631842985071
+2,Digestive system diseases,stool,5.268727740189456
+2,Digestive system diseases,portal,5.1900649641983145
+2,Digestive system diseases,obstruction,5.140748242817119
+2,Digestive system diseases,liver of,4.831580410816846
+2,Digestive system diseases,rehydration,4.728910224880031
+2,Digestive system diseases,enterocolitica,4.6872945655904275
+2,Digestive system diseases,vs,4.6429013893379745
+2,Digestive system diseases,perforations,4.634491826406117
+2,Digestive system diseases,subjects,4.621716607443614
+2,Digestive system diseases,of oral,4.1762008517345635
+2,Digestive system diseases,portal hypertension,4.147671446852037
+2,Digestive system diseases,coli,4.142297164980797
+2,Digestive system diseases,anorectal,4.129982686832979
+2,Digestive system diseases,hepatic fibrosis,4.115258796938194
+2,Digestive system diseases,hiv,4.090335808524198
+2,Digestive system diseases,peptic,4.08421320155426
+2,Digestive system diseases,double,4.028174056697361
+2,Digestive system diseases,oral,3.8492297950796304
+2,Digestive system diseases,diseases,3.7663122868714454
+2,Digestive system diseases,sphincter,3.7002865789289987
+2,Digestive system diseases,cholecystitis,3.6942248399941575
+2,Digestive system diseases,bile,3.5049960824611044
+2,Digestive system diseases,cirrhotic,3.3939733608952722
+2,Digestive system diseases,diarrhoea,3.3765515864925395
+2,Digestive system diseases,hepatotoxicity,3.3464992303621184
+2,Digestive system diseases,significantly,3.3186015065612775
+2,Digestive system diseases,swallowing,3.292654795457932
+2,Digestive system diseases,100,3.2709101920717507
+2,Digestive system diseases,meal,3.258442861014329
+2,Digestive system diseases,staff,2.8475097199721744
+2,Digestive system diseases,of hepatic,2.8337545695638413
+2,Digestive system diseases,contrast,2.7951843942195898
+2,Digestive system diseases,excretion,2.7890840383633106
+2,Digestive system diseases,cimetidine,2.7510223606774646
+2,Digestive system diseases,less,2.691661208557362
+2,Digestive system diseases,diagnosis,2.672733234137333
+2,Digestive system diseases,milk,2.650914179169623
+2,Digestive system diseases,the diagnosis,2.522131287475716
+2,Digestive system diseases,celiac,2.4028547962779543
+2,Digestive system diseases,fat,2.3790898978878166
+2,Digestive system diseases,serum,2.271248994660706
+2,Digestive system diseases,duct,2.2546972294909833
+2,Digestive system diseases,intestinal,2.2410385856457844
+2,Digestive system diseases,fluid,2.2239184989597605
+2,Digestive system diseases,antibody,2.190219346755181
+2,Digestive system diseases,disease,2.158944726341217
+2,Digestive system diseases,aspiration,2.144743281506122
+2,Digestive system diseases,ph,2.017218079913726
+2,Digestive system diseases,jejunal,1.9486256828503106
+2,Digestive system diseases,alcohol,1.8449219897344173
+2,Digestive system diseases,capd,1.7988117647163744
+2,Digestive system diseases,abdominal pain,1.74418895898809
+2,Digestive system diseases,after ingestion,1.6329117115651377
+2,Digestive system diseases,symptoms,1.522889217040447
+2,Digestive system diseases,enteric,1.519783851435879
+2,Digestive system diseases,endoscopy,1.4917987480741037
+2,Digestive system diseases,infants,1.4606895948237206
+2,Digestive system diseases,gut,1.4460394833954906
+2,Digestive system diseases,double contrast,1.39911452679386
+2,Digestive system diseases,diet,1.3327426933853979
+2,Digestive system diseases,iga,1.16928552083026
+2,Digestive system diseases,of alcohol,1.0869483546380523
+2,Digestive system diseases,the formation,1.0799658674023829
+2,Digestive system diseases,renal failure,1.0016967231118046
+2,Digestive system diseases,whether,0.9772710235025248
+2,Digestive system diseases,infected,0.9608690350494157
+2,Digestive system diseases,perforated,0.949001518004132
+2,Digestive system diseases,sign,0.863164376312479
+2,Digestive system diseases,1989,0.8328383076915901
+2,Digestive system diseases,infection,0.7691945879424753
+2,Digestive system diseases,rectum,0.7617066179675437
+2,Digestive system diseases,day,0.7353553490146713
+2,Digestive system diseases,compared with,0.7115642636252681
+2,Digestive system diseases,aids,0.6456565370666603
+2,Digestive system diseases,when,0.5864785817582865
+2,Digestive system diseases,degraded,0.5507031568996404
+2,Digestive system diseases,dietary,0.3111863652643161
+2,Digestive system diseases,on,0.30235739161077824
+2,Digestive system diseases,deficient,0.2962145229741039
+2,Digestive system diseases,care,0.29573708073386595
+2,Digestive system diseases,sarcoidosis,0.2807629505397726
+2,Digestive system diseases,immunization,0.18242546034625035
+2,Digestive system diseases,barium,0.0941860776809739
+2,Digestive system diseases,rapid,0.087858645624472
+2,Digestive system diseases,giardiasis,0.08452390640059183
+2,Digestive system diseases,chronic,-0.04710041542498683
+2,Digestive system diseases,gastrostomy,-0.05330391510887004
+2,Digestive system diseases,hypertension,-0.05789891120364398
+2,Digestive system diseases,operative,-0.21565944818612748
+2,Digestive system diseases,replacement,-0.25700647445817726
+2,Digestive system diseases,graft,-0.34904791269003044
+2,Digestive system diseases,benign,-0.5434512462223239
+2,Digestive system diseases,same,-0.5747064472103451
+2,Digestive system diseases,dna,-0.6847315543935173
+2,Digestive system diseases,ischemia,-0.7152951523114603
+2,Digestive system diseases,bone,-0.7396710435128608
+2,Digestive system diseases,case,-0.9542078518214685
+2,Digestive system diseases,brain,-1.111871060032732
+2,Digestive system diseases,hemorrhage,-1.1258782175136421
+2,Digestive system diseases,hepatocellular carcinoma,-1.2114218650423836
+2,Digestive system diseases,percutaneous,-1.2274142095301859
+2,Digestive system diseases,delta,-1.2867404286791257
+2,Digestive system diseases,function,-1.3213688447282002
+2,Digestive system diseases,cerebral,-1.4539300779386222
+2,Digestive system diseases,heart,-1.4945812088130024
+2,Digestive system diseases,11,-1.8604955914449055
+2,Digestive system diseases,most,-2.070377982834529
+2,Digestive system diseases,arterial,-2.087614024853758
+2,Digestive system diseases,cases,-2.4382319865666395
+2,Digestive system diseases,malignant,-2.912848228449791
+2,Digestive system diseases,cardiac,-3.048696502366849
+2,Digestive system diseases,gene,-3.1229450394198226
+2,Digestive system diseases,ct,-3.1290669965463738
+2,Digestive system diseases,had,-3.179932398339799
+2,Digestive system diseases,tension,-3.228847707600883
+2,Digestive system diseases,myocardial,-3.2592116319331503
+2,Digestive system diseases,pressure,-3.339915076917768
+2,Digestive system diseases,imaging,-3.360560014558334
+2,Digestive system diseases,blood,-3.945056579453554
+2,Digestive system diseases,artery,-4.791447935401796
+2,Digestive system diseases,tumors,-4.926291247990151
+2,Digestive system diseases,in patient,-5.066035876363829
+2,Digestive system diseases,growth,-5.501347929491131
+2,Digestive system diseases,blood pressure,-5.563905643982791
+2,Digestive system diseases,coronary,-6.578239170413749
+2,Digestive system diseases,ventricular,-6.6306508188946225
+2,Digestive system diseases,bleeding,-8.8166118002443
+2,Digestive system diseases,carcinoma,-11.512281767134764
+2,Digestive system diseases,cancer,-15.909791715285126
+2,Digestive system diseases,tumor,-19.585824070077415
+3,Nervous system diseases,stroke,24.676582264161826
+3,Nervous system diseases,seizures,21.27576620571818
+3,Nervous system diseases,brain,18.532279200418255
+3,Nervous system diseases,meningitis,18.48699706012425
+3,Nervous system diseases,seizure,17.07280277022197
+3,Nervous system diseases,pain,16.78738211459503
+3,Nervous system diseases,migraine,16.498840519055047
+3,Nervous system diseases,parkinson disease,16.176729672916288
+3,Nervous system diseases,headache,16.152331965544047
+3,Nervous system diseases,sleep,15.247184071433033
+3,Nervous system diseases,myasthenia,15.071552165094689
+3,Nervous system diseases,epilepsy,14.932818020331252
+3,Nervous system diseases,hyperprolactinemia,13.541653283698555
+3,Nervous system diseases,apnea,13.414893392666869
+3,Nervous system diseases,fragile,12.138780848137392
+3,Nervous system diseases,cerebral,12.05986040266958
+3,Nervous system diseases,neurologic,11.987222618444962
+3,Nervous system diseases,gait,11.876238159809139
+3,Nervous system diseases,be explained,11.530747548123372
+3,Nervous system diseases,hydrocephalus,11.528169126548544
+3,Nervous system diseases,tourette,11.508424458713543
+3,Nervous system diseases,language,11.420769237104595
+3,Nervous system diseases,neuropathy,11.213290359653955
+3,Nervous system diseases,pd,10.896721870447047
+3,Nervous system diseases,lindau disease,10.699399693486543
+3,Nervous system diseases,neuromuscular,10.354124494767296
+3,Nervous system diseases,and,10.349409722503886
+3,Nervous system diseases,intracranial,10.170598735567037
+3,Nervous system diseases,infantile,10.118592885753277
+3,Nervous system diseases,motor,9.99670914284157
+3,Nervous system diseases,cbz,9.91058360391583
+3,Nervous system diseases,behavioral,9.547766845953685
+3,Nervous system diseases,spastic,9.474644759082109
+3,Nervous system diseases,tunnel syndrome,9.34282314527675
+3,Nervous system diseases,visual,9.260495091949728
+3,Nervous system diseases,dementia,9.15026039455285
+3,Nervous system diseases,movement,9.089997963906521
+3,Nervous system diseases,painful,8.847159773080662
+3,Nervous system diseases,consciousness,8.816276486345302
+3,Nervous system diseases,acoustic,8.704518394859672
+3,Nervous system diseases,schwannoma,8.458160973551632
+3,Nervous system diseases,demyelinating,8.244814307707404
+3,Nervous system diseases,nerve,8.181823001632594
+3,Nervous system diseases,potentials,8.030338952724254
+3,Nervous system diseases,improvement,7.8983886413800635
+3,Nervous system diseases,mental,7.782986247460818
+3,Nervous system diseases,rehabilitation,7.65325343318661
+3,Nervous system diseases,objective,7.651253994238372
+3,Nervous system diseases,parkinsonian,7.450070996441035
+3,Nervous system diseases,pupil,7.3609704849844455
+3,Nervous system diseases,affected,7.243192179473484
+3,Nervous system diseases,instability,7.144038796073613
+3,Nervous system diseases,injured,7.092512742214469
+3,Nervous system diseases,syncope,6.927968155903508
+3,Nervous system diseases,spasticity,6.870574325332123
+3,Nervous system diseases,spinal,6.662688447406392
+3,Nervous system diseases,cerebrospinal,6.655102045316684
+3,Nervous system diseases,achr,6.424708163741308
+3,Nervous system diseases,palsy,6.398409276671031
+3,Nervous system diseases,soleus,6.281368108266202
+3,Nervous system diseases,neural,6.2557190641919185
+3,Nervous system diseases,autonomic,6.233038279186458
+3,Nervous system diseases,infarct,6.225937842648104
+3,Nervous system diseases,neuronal,6.132158066166692
+3,Nervous system diseases,neuroleptic,6.054529977388494
+3,Nervous system diseases,tay sachs,5.978331070516172
+3,Nervous system diseases,criteria for,5.72137805928433
+3,Nervous system diseases,tail,5.607301343423874
+3,Nervous system diseases,after injury,5.545067106454885
+3,Nervous system diseases,intracranial hypertension,5.488915616098609
+3,Nervous system diseases,mobility,5.3151013318353435
+3,Nervous system diseases,nervous,5.28676848110366
+3,Nervous system diseases,csf,5.259562804737169
+3,Nervous system diseases,wilson disease,5.133235123453787
+3,Nervous system diseases,preserved,5.119595716849121
+3,Nervous system diseases,thresholds,5.0519025122299634
+3,Nervous system diseases,injuries,5.036777678942283
+3,Nervous system diseases,cns,4.963940947063769
+3,Nervous system diseases,syndrome,4.905839927403126
+3,Nervous system diseases,lyme,4.888324913773981
+3,Nervous system diseases,alpha,4.841880157765303
+3,Nervous system diseases,neuron,4.827655180474592
+3,Nervous system diseases,refractory to,4.815657537048457
+3,Nervous system diseases,useful in,4.813949993000415
+3,Nervous system diseases,leptomeningeal,4.775439247387985
+3,Nervous system diseases,behavior,4.677717378994265
+3,Nervous system diseases,wilson,4.647558248096492
+3,Nervous system diseases,spina bifida,4.608948026154015
+3,Nervous system diseases,carbamazepine,4.593906641882177
+3,Nervous system diseases,cognitive,4.587097261272095
+3,Nervous system diseases,nucleus,4.5797221549932035
+3,Nervous system diseases,lobe,4.508767019152693
+3,Nervous system diseases,head injury,4.3436553753188765
+3,Nervous system diseases,anaesthesia,4.311899256078719
+3,Nervous system diseases,reflex,4.16903720861773
+3,Nervous system diseases,midazolam,4.124203991610383
+3,Nervous system diseases,fibromyalgia,4.115825245692207
+3,Nervous system diseases,dystrophy,4.114344934396689
+3,Nervous system diseases,movements,4.103169608881673
+3,Nervous system diseases,magnetic,4.088813483700969
+3,Nervous system diseases,lateral,3.9290779534528566
+3,Nervous system diseases,spina,3.925114453046058
+3,Nervous system diseases,disorder,3.9212823449893848
+3,Nervous system diseases,muscle,3.8172453266916757
+3,Nervous system diseases,the blood,3.810235638103682
+3,Nervous system diseases,trigeminal,3.7861754009829434
+3,Nervous system diseases,delirium,3.738902982159
+3,Nervous system diseases,subjects,3.7376423825685396
+3,Nervous system diseases,living,3.7240296933365067
+3,Nervous system diseases,subdural,3.7228425415189794
+3,Nervous system diseases,deficits,3.688936728513751
+3,Nervous system diseases,latencies,3.644126244352194
+3,Nervous system diseases,the cerebral,3.6433567903607345
+3,Nervous system diseases,are discussed,3.642447817203066
+3,Nervous system diseases,cream,3.582252973010021
+3,Nervous system diseases,phenobarbital,3.3441134027350112
+3,Nervous system diseases,families,3.333656595179069
+3,Nervous system diseases,found no,3.191009103047834
+3,Nervous system diseases,epileptic,3.1795909175493633
+3,Nervous system diseases,torticollis,3.175280148989932
+3,Nervous system diseases,phenytoin,3.147662011343951
+3,Nervous system diseases,muscles,3.1475866582798737
+3,Nervous system diseases,stimulation,3.084159651014558
+3,Nervous system diseases,quinine,3.0815744648885985
+3,Nervous system diseases,mentally,3.048866950305718
+3,Nervous system diseases,component,3.0120250647642974
+3,Nervous system diseases,impairment,2.998608403994384
+3,Nervous system diseases,use,2.9372005216290935
+3,Nervous system diseases,neuropsychiatric,2.8672620731966494
+3,Nervous system diseases,malaria,2.8527345680067566
+3,Nervous system diseases,spinal cord,2.8072859769903773
+3,Nervous system diseases,jewish,2.797961765452013
+3,Nervous system diseases,liver failure,2.748389533079728
+3,Nervous system diseases,intrathecal,2.6783973902303857
+3,Nervous system diseases,pht,2.656001434617975
+3,Nervous system diseases,dyskinesia,2.634416455078197
+3,Nervous system diseases,syndrome in,2.6066821804295075
+3,Nervous system diseases,initially,2.5952511637552313
+3,Nervous system diseases,water,2.56483221305835
+3,Nervous system diseases,cerebrospinal fluid,2.524952650065219
+3,Nervous system diseases,rigidity,2.503297791978055
+3,Nervous system diseases,hypothalamic,2.500952920691788
+3,Nervous system diseases,level,2.4770239835680576
+3,Nervous system diseases,onset,2.430275105296333
+3,Nervous system diseases,withdrawal,2.4156557459256596
+3,Nervous system diseases,potential,2.3267685435810987
+3,Nervous system diseases,residents,2.3210340636025166
+3,Nervous system diseases,temporal,2.3125868006192736
+3,Nervous system diseases,hearing,2.2545301920524734
+3,Nervous system diseases,deficit,2.2478539493739427
+3,Nervous system diseases,suggests,2.0882732714382644
+3,Nervous system diseases,analgesic,2.066158088669807
+3,Nervous system diseases,and we,2.060324852048565
+3,Nervous system diseases,neuroborreliosis,2.0566538197263844
+3,Nervous system diseases,shoulder,2.0274346287552545
+3,Nervous system diseases,deterioration,2.000309153892902
+3,Nervous system diseases,patellofemoral,1.9816806180393047
+3,Nervous system diseases,mri,1.888404619355366
+3,Nervous system diseases,cervical,1.8853780648448086
+3,Nervous system diseases,cerebellar,1.8546288556033783
+3,Nervous system diseases,consisted,1.828931588579784
+3,Nervous system diseases,meningocele,1.791054297142795
+3,Nervous system diseases,wounds,1.790152089340299
+3,Nervous system diseases,head,1.788475861333601
+3,Nervous system diseases,organs,1.7321168239818616
+3,Nervous system diseases,secondary to,1.6974645538233646
+3,Nervous system diseases,carpal,1.65663538531308
+3,Nervous system diseases,found,1.649041279066931
+3,Nervous system diseases,lignocaine,1.6435015228195504
+3,Nervous system diseases,amplitude,1.6426123975766842
+3,Nervous system diseases,puncture,1.6385431838717146
+3,Nervous system diseases,of the,1.614827009418965
+3,Nervous system diseases,dopa,1.614572138550219
+3,Nervous system diseases,elderly,1.5601397384254472
+3,Nervous system diseases,symptoms,1.5579854174690917
+3,Nervous system diseases,isoniazid,1.5268778572836348
+3,Nervous system diseases,physical,1.5034301402656347
+3,Nervous system diseases,light,1.5006406613220238
+3,Nervous system diseases,neurons,1.4963943915011022
+3,Nervous system diseases,tay,1.4955206192074844
+3,Nervous system diseases,self,1.4662944739773232
+3,Nervous system diseases,discriminant,1.4569883684781302
+3,Nervous system diseases,had,1.4286008961263092
+3,Nervous system diseases,infarction,1.3866627622765326
+3,Nervous system diseases,toxin,1.3822470147309995
+3,Nervous system diseases,intracranial pressure,1.381998133925726
+3,Nervous system diseases,interaction,1.3714103413673469
+3,Nervous system diseases,cerebral malaria,1.341237453548148
+3,Nervous system diseases,being,1.3345271567503785
+3,Nervous system diseases,depression,1.312167374289134
+3,Nervous system diseases,no significant,1.2826659851926958
+3,Nervous system diseases,evaluation,1.271254888341967
+3,Nervous system diseases,age,1.2706582047918193
+3,Nervous system diseases,application of,1.2442921710206107
+3,Nervous system diseases,in detail,1.1863915734044148
+3,Nervous system diseases,explained,1.180062073917744
+3,Nervous system diseases,paresthetica,1.1526497270210523
+3,Nervous system diseases,neurocybernetic,1.1506872513406774
+3,Nervous system diseases,syrinx,1.1384710721309694
+3,Nervous system diseases,babies,1.1141398320693754
+3,Nervous system diseases,change,1.1052505317395718
+3,Nervous system diseases,yet,1.0997040730954224
+3,Nervous system diseases,were found,1.0914959463432539
+3,Nervous system diseases,cord,1.0699473254870955
+3,Nervous system diseases,disseminated intravascular,1.0620799813890387
+3,Nervous system diseases,nerves,1.0537630825843054
+3,Nervous system diseases,neurocybernetic prosthesis,0.9956939856243995
+3,Nervous system diseases,patient,0.9537079629591045
+3,Nervous system diseases,area,0.934191095798938
+3,Nervous system diseases,any,0.9335167697192014
+3,Nervous system diseases,tests,0.9101637280005822
+3,Nervous system diseases,quality,0.9100983000443391
+3,Nervous system diseases,neural tube,0.8879110168448479
+3,Nervous system diseases,no,0.8654474602807242
+3,Nervous system diseases,functional,0.8220362666993952
+3,Nervous system diseases,retardation,0.8166401263738376
+3,Nervous system diseases,concentrations,0.8157341543256316
+3,Nervous system diseases,30,0.8133118964613784
+3,Nervous system diseases,patient with,0.7879334094241658
+3,Nervous system diseases,family with,0.7750019399663199
+3,Nervous system diseases,meralgia paresthetica,0.7082486984770444
+3,Nervous system diseases,of pain,0.6927657165671206
+3,Nervous system diseases,brain injury,0.685364196625304
+3,Nervous system diseases,locus,0.6567805816772186
+3,Nervous system diseases,diagnosis of,0.6014204761989472
+3,Nervous system diseases,cortex,0.5894166016037367
+3,Nervous system diseases,that,0.5791215754467071
+3,Nervous system diseases,bifida,0.576643644892631
+3,Nervous system diseases,dsao2,0.5602046080853454
+3,Nervous system diseases,responses,0.5087945972677106
+3,Nervous system diseases,abnormal,0.49219114420157617
+3,Nervous system diseases,tasks,0.4920083317911442
+3,Nervous system diseases,sachs,0.4816107525242121
+3,Nervous system diseases,encephalopathy,0.4795686249557396
+3,Nervous system diseases,penicillamine,0.46296530494547045
+3,Nervous system diseases,scrapie,0.44696289002492645
+3,Nervous system diseases,correlated with,0.4346635692592686
+3,Nervous system diseases,eyes,0.42606878011073296
+3,Nervous system diseases,none of,0.40451300508615523
+3,Nervous system diseases,arm,0.39565281546845227
+3,Nervous system diseases,anterior,0.39145591620216263
+3,Nervous system diseases,nursing,0.36915536892957473
+3,Nervous system diseases,the side,0.3454718662655036
+3,Nervous system diseases,caused by,0.33891998673827195
+3,Nervous system diseases,research,0.3294615288841577
+3,Nervous system diseases,auditory,0.3084046204867866
+3,Nervous system diseases,test,0.30528574669321557
+3,Nervous system diseases,akathisia,0.30337107111757283
+3,Nervous system diseases,content,0.30327529025451033
+3,Nervous system diseases,rifle,0.28525871288619453
+3,Nervous system diseases,myelin,0.2795693383022752
+3,Nervous system diseases,fiber,0.2629790711171626
+3,Nervous system diseases,patients,0.2580075781776352
+3,Nervous system diseases,assess,0.2077907377168047
+3,Nervous system diseases,neurosurgical,0.1962172187944737
+3,Nervous system diseases,contrast,0.18065152762001493
+3,Nervous system diseases,disorders,0.16984940776376867
+3,Nervous system diseases,frontal,0.16628337210245145
+3,Nervous system diseases,nasal,0.16572981715742977
+3,Nervous system diseases,their,0.16102017201572844
+3,Nervous system diseases,meralgia,0.15014660609343095
+3,Nervous system diseases,myelopathy,0.13976525154755096
+3,Nervous system diseases,validity,0.07330592486962982
+3,Nervous system diseases,medication,0.06795514349472356
+3,Nervous system diseases,system and,0.035796936925007614
+3,Nervous system diseases,simultaneously,0.03150034142720402
+3,Nervous system diseases,many,0.02708583236236952
+3,Nervous system diseases,dsao2 dt,0.0013892830828223816
+3,Nervous system diseases,be related,0.0004744316425082006
+3,Nervous system diseases,vitro,-0.023530934138230705
+3,Nervous system diseases,matter lesions,-0.02913648796668829
+3,Nervous system diseases,the treatment,-0.06229750372033688
+3,Nervous system diseases,fat,-0.06721199304660695
+3,Nervous system diseases,each,-0.07877083212418466
+3,Nervous system diseases,high,-0.09201815938380363
+3,Nervous system diseases,should,-0.14688142986543692
+3,Nervous system diseases,surgery,-0.24513434703425116
+3,Nervous system diseases,cycle,-0.26396457900552783
+3,Nervous system diseases,scans,-0.2707011618486839
+3,Nervous system diseases,pressure,-0.27607545628130425
+3,Nervous system diseases,kinase,-0.2801394094345029
+3,Nervous system diseases,trauma,-0.29103670412036187
+3,Nervous system diseases,total,-0.29220783424743874
+3,Nervous system diseases,fistula,-0.305468135413595
+3,Nervous system diseases,percutaneous,-0.30790956429049837
+3,Nervous system diseases,mortality,-0.343056685926679
+3,Nervous system diseases,histologic,-0.3935614991817542
+3,Nervous system diseases,operation,-0.4086096017480152
+3,Nervous system diseases,result,-0.4132180896377128
+3,Nervous system diseases,melanoma,-0.4177928076937978
+3,Nervous system diseases,emergency,-0.43012753182293917
+3,Nervous system diseases,new,-0.4676617324697793
+3,Nervous system diseases,after,-0.47495606030100684
+3,Nervous system diseases,venous,-0.4842411451468461
+3,Nervous system diseases,cardiovascular,-0.5137619603445011
+3,Nervous system diseases,complication,-0.5209507283981714
+3,Nervous system diseases,also,-0.5220504130204175
+3,Nervous system diseases,risk,-0.5335495635803618
+3,Nervous system diseases,grafts,-0.5796399201447205
+3,Nervous system diseases,beta,-0.6481131143635968
+3,Nervous system diseases,bile,-0.6981070033791938
+3,Nervous system diseases,10,-0.7179270598504189
+3,Nervous system diseases,chest,-0.7414172797215224
+3,Nervous system diseases,in vitro,-0.7553907465739986
+3,Nervous system diseases,oral,-0.786652932814029
+3,Nervous system diseases,experience,-0.8104383119048821
+3,Nervous system diseases,arterial,-0.8167040656406863
+3,Nervous system diseases,cytomegalovirus,-0.8232574433548905
+3,Nervous system diseases,lung,-0.8354147240880568
+3,Nervous system diseases,catheter,-0.8646566822376764
+3,Nervous system diseases,through,-0.8792828418553941
+3,Nervous system diseases,relapse,-0.8818768172377373
+3,Nervous system diseases,ischemia,-0.963497211667401
+3,Nervous system diseases,atrial,-1.0070552591383977
+3,Nervous system diseases,anal,-1.1199510985882812
+3,Nervous system diseases,temporomandibular,-1.1468334143919012
+3,Nervous system diseases,growth,-1.2002671417671267
+3,Nervous system diseases,volumes,-1.2352513845345232
+3,Nervous system diseases,reconstruction,-1.264246079737167
+3,Nervous system diseases,body,-1.2728466120402284
+3,Nervous system diseases,hypertensive,-1.3280085450439933
+3,Nervous system diseases,rates,-1.4575292803360709
+3,Nervous system diseases,oxygen,-1.4612311826112558
+3,Nervous system diseases,time of,-1.49916167472892
+3,Nervous system diseases,obstruction,-1.5118664130881332
+3,Nervous system diseases,diarrhea,-1.516773016773348
+3,Nervous system diseases,duct,-1.5714457289769386
+3,Nervous system diseases,dose,-1.6872797622464875
+3,Nervous system diseases,diffuse,-1.6990569213646811
+3,Nervous system diseases,artery,-1.7158371265897134
+3,Nervous system diseases,hemispheric,-1.8417089484732072
+3,Nervous system diseases,tremor,-1.985995142308847
+3,Nervous system diseases,endoscopic,-2.292410286634954
+3,Nervous system diseases,24,-2.3909627791406414
+3,Nervous system diseases,human,-2.4866280707486945
+3,Nervous system diseases,two patients,-2.526036095498289
+3,Nervous system diseases,maintenance,-2.646983083072213
+3,Nervous system diseases,biopsy,-2.698068005713386
+3,Nervous system diseases,cases,-2.7258165354821715
+3,Nervous system diseases,stress,-2.816775029590832
+3,Nervous system diseases,gastric,-2.935348907419277
+3,Nervous system diseases,small,-2.9550121571575323
+3,Nervous system diseases,inflammatory,-3.1863096908475983
+3,Nervous system diseases,flow,-3.2621262815132006
+3,Nervous system diseases,one,-3.371679727473178
+3,Nervous system diseases,biliary,-3.373741346572109
+3,Nervous system diseases,episodes,-3.479056166298046
+3,Nervous system diseases,model,-3.502163285129921
+3,Nervous system diseases,cells,-3.5238249883817767
+3,Nervous system diseases,radiation,-3.5984390590950026
+3,Nervous system diseases,mass,-3.6040151165675653
+3,Nervous system diseases,menstrual,-3.619482849128063
+3,Nervous system diseases,be considered,-3.648206355766702
+3,Nervous system diseases,valve,-3.7102732110561187
+3,Nervous system diseases,less than,-3.7443558612203645
+3,Nervous system diseases,this report,-3.7508632173341203
+3,Nervous system diseases,leukemia,-3.7564544143610408
+3,Nervous system diseases,back,-3.784965116866001
+3,Nervous system diseases,vasculitis,-3.88928464178587
+3,Nervous system diseases,renal,-3.9235208426373953
+3,Nervous system diseases,however,-4.01772970210346
+3,Nervous system diseases,tumors,-4.069953073225611
+3,Nervous system diseases,compared with,-4.259862689034958
+3,Nervous system diseases,heart,-4.486384622394058
+3,Nervous system diseases,blood,-4.6059921942365145
+3,Nervous system diseases,vascular,-4.812793476826098
+3,Nervous system diseases,two,-4.864887373558488
+3,Nervous system diseases,cardiac,-4.970485111311715
+3,Nervous system diseases,esophageal,-5.066039372533435
+3,Nervous system diseases,acute,-5.128493309178369
+3,Nervous system diseases,metastases,-5.154536501563195
+3,Nervous system diseases,malignant,-5.422754629691357
+3,Nervous system diseases,cell,-5.568457462932048
+3,Nervous system diseases,pulmonary,-5.586856049898316
+3,Nervous system diseases,tissue,-5.7500089940070325
+3,Nervous system diseases,aortic,-6.156024184773473
+3,Nervous system diseases,chronic,-6.762337275053989
+3,Nervous system diseases,recurrent,-7.047159952824336
+3,Nervous system diseases,postoperative,-7.239423224553495
+3,Nervous system diseases,facial,-7.391732668860149
+3,Nervous system diseases,bowel,-7.447360918646685
+3,Nervous system diseases,survival,-7.748253936120414
+3,Nervous system diseases,abdominal,-8.411628427421581
+3,Nervous system diseases,tumor,-10.55889167994743
+3,Nervous system diseases,ventricular,-12.937963993599052
+3,Nervous system diseases,hypertension,-13.483516376186403
+3,Nervous system diseases,carcinoma,-13.882897919428881
+3,Nervous system diseases,myocardial,-14.231802695886174
+3,Nervous system diseases,coronary,-15.081797260056335
+3,Nervous system diseases,hemorrhage,-15.427362557728191
+3,Nervous system diseases,cancer,-17.121938411904914
+4,Cardiovascular diseases,hypertension,35.417702204670775
+4,Cardiovascular diseases,hypertensive,33.605000839816306
+4,Cardiovascular diseases,myocardial,32.50903423385234
+4,Cardiovascular diseases,tachycardia,25.890270874264292
+4,Cardiovascular diseases,endocarditis,23.442390628067933
+4,Cardiovascular diseases,coronary,21.017579163269705
+4,Cardiovascular diseases,raynaud,19.643122722056063
+4,Cardiovascular diseases,aortic,18.838509976299708
+4,Cardiovascular diseases,heart,18.344110949026327
+4,Cardiovascular diseases,subarachnoid hemorrhage,18.134118207213895
+4,Cardiovascular diseases,cardiovascular,18.1133913187796
+4,Cardiovascular diseases,vasculitis,17.375082919296478
+4,Cardiovascular diseases,thromboembolic,17.339364988664162
+4,Cardiovascular diseases,septal,17.157822280032924
+4,Cardiovascular diseases,heart failure,17.123106938337873
+4,Cardiovascular diseases,blood pressure,17.076209318824574
+4,Cardiovascular diseases,ischemia,16.090474795673007
+4,Cardiovascular diseases,thrombosis,14.047488000698134
+4,Cardiovascular diseases,vascular,14.02543256064865
+4,Cardiovascular diseases,cholesterol,13.443046810087178
+4,Cardiovascular diseases,cardiomyopathy,13.344664291624559
+4,Cardiovascular diseases,claudication,12.87542095513275
+4,Cardiovascular diseases,embolism,12.322350830826274
+4,Cardiovascular diseases,antihypertensive,12.100530272054616
+4,Cardiovascular diseases,pericardial,11.706960931471027
+4,Cardiovascular diseases,thrombotic,10.120991488935392
+4,Cardiovascular diseases,atrial fibrillation,10.117652337013865
+4,Cardiovascular diseases,ischemic,10.038016776527364
+4,Cardiovascular diseases,cardiac,9.952862914018356
+4,Cardiovascular diseases,interval,9.92971455999053
+4,Cardiovascular diseases,thrombi,9.856340668504572
+4,Cardiovascular diseases,internal carotid,9.824048918317324
+4,Cardiovascular diseases,angioplasty,9.80818420909062
+4,Cardiovascular diseases,of coronary,9.769069608903468
+4,Cardiovascular diseases,arrest,9.637879468733004
+4,Cardiovascular diseases,atherosclerosis,9.50542943954347
+4,Cardiovascular diseases,mm hg,9.46629757315233
+4,Cardiovascular diseases,viscosity,9.346299184859095
+4,Cardiovascular diseases,pericarditis,8.979347332823322
+4,Cardiovascular diseases,artery,8.957451428145497
+4,Cardiovascular diseases,doppler,8.924101240806856
+4,Cardiovascular diseases,arterial,8.840679097035933
+4,Cardiovascular diseases,jets,8.738023980045114
+4,Cardiovascular diseases,atherosclerotic,8.71011862090252
+4,Cardiovascular diseases,stenosis,8.66512755004808
+4,Cardiovascular diseases,ventricular,8.273550183236045
+4,Cardiovascular diseases,telangiectasia,8.182024955698003
+4,Cardiovascular diseases,angiotensin,8.169960836897326
+4,Cardiovascular diseases,giant cell,8.109936609003196
+4,Cardiovascular diseases,regurgitation,7.868110785897067
+4,Cardiovascular diseases,arteries,7.860605281739531
+4,Cardiovascular diseases,venous,7.638430132198388
+4,Cardiovascular diseases,atrial,7.613357542419652
+4,Cardiovascular diseases,of heparin,7.522951823773659
+4,Cardiovascular diseases,aneurysm,7.504052614326641
+4,Cardiovascular diseases,transesophageal,7.379091838928675
+4,Cardiovascular diseases,bacillary,7.316023906259775
+4,Cardiovascular diseases,lower extremity,7.2834712023403885
+4,Cardiovascular diseases,varicose,7.142669823874568
+4,Cardiovascular diseases,hypotension,7.116142424245273
+4,Cardiovascular diseases,protocol,6.869875482748191
+4,Cardiovascular diseases,cardiovascular disease,6.855748021981037
+4,Cardiovascular diseases,accessory,6.575796088515501
+4,Cardiovascular diseases,diastolic,6.559105481482241
+4,Cardiovascular diseases,pericardial effusion,6.5398422234665645
+4,Cardiovascular diseases,vascular disease,6.389306184823854
+4,Cardiovascular diseases,tricuspid,6.364962984694752
+4,Cardiovascular diseases,left ventricular,6.362175123971578
+4,Cardiovascular diseases,angioedema,6.127574765955808
+4,Cardiovascular diseases,diameter,6.078145037110154
+4,Cardiovascular diseases,cpr,5.792795695825359
+4,Cardiovascular diseases,aorta,5.58694348550153
+4,Cardiovascular diseases,reversed,5.4999236522358155
+4,Cardiovascular diseases,hemodialysis,5.474314843959498
+4,Cardiovascular diseases,angiography,5.375721821648146
+4,Cardiovascular diseases,vein thrombosis,5.360312380666967
+4,Cardiovascular diseases,exercise,5.270962272714135
+4,Cardiovascular diseases,incompetence,5.258602223996531
+4,Cardiovascular diseases,pmr,5.003422206099114
+4,Cardiovascular diseases,salt,4.890380114952731
+4,Cardiovascular diseases,device,4.630377168114385
+4,Cardiovascular diseases,sequential,4.608913138246781
+4,Cardiovascular diseases,below knee,4.526738917091699
+4,Cardiovascular diseases,thromboxane,4.498641500362727
+4,Cardiovascular diseases,ischaemia,4.442861246458646
+4,Cardiovascular diseases,left,4.4176796463033705
+4,Cardiovascular diseases,hospital,4.187152960778401
+4,Cardiovascular diseases,aneurysmal,4.173666280257546
+4,Cardiovascular diseases,inhibitors,4.123621323970366
+4,Cardiovascular diseases,64,4.042268890780032
+4,Cardiovascular diseases,mitral,3.961798882533358
+4,Cardiovascular diseases,temporal arteritis,3.9462188278793824
+4,Cardiovascular diseases,accuracy,3.938094410982917
+4,Cardiovascular diseases,heart disease,3.914364131018792
+4,Cardiovascular diseases,outflow,3.7846950797279644
+4,Cardiovascular diseases,ventricular assist,3.573673406969592
+4,Cardiovascular diseases,cell arteritis,3.3372910258956168
+4,Cardiovascular diseases,plasma,3.271063277257252
+4,Cardiovascular diseases,endothelin,3.1705308612080607
+4,Cardiovascular diseases,angina,3.111135872667251
+4,Cardiovascular diseases,arteritis,3.052978040275507
+4,Cardiovascular diseases,sah,2.996042897496803
+4,Cardiovascular diseases,therapy,2.97243329800178
+4,Cardiovascular diseases,standard,2.9673656864266595
+4,Cardiovascular diseases,wall,2.9564909762688405
+4,Cardiovascular diseases,not be,2.950530608621871
+4,Cardiovascular diseases,filter,2.9345371316195856
+4,Cardiovascular diseases,of aortic,2.916116375791755
+4,Cardiovascular diseases,segment,2.8471802958299435
+4,Cardiovascular diseases,myocarditis,2.7223940802891606
+4,Cardiovascular diseases,deep,2.7098522374575844
+4,Cardiovascular diseases,of ischemia,2.7058042055221465
+4,Cardiovascular diseases,velocity,2.6769683590512474
+4,Cardiovascular diseases,valvuloplasty,2.6479453821081784
+4,Cardiovascular diseases,less,2.6282897022071157
+4,Cardiovascular diseases,catheter,2.627666018944457
+4,Cardiovascular diseases,valvular,2.6106705679804323
+4,Cardiovascular diseases,sympathetic,2.5802781298325734
+4,Cardiovascular diseases,increase in,2.572910554068762
+4,Cardiovascular diseases,transient,2.5552222682140058
+4,Cardiovascular diseases,beta,2.5473398205353446
+4,Cardiovascular diseases,diabetes,2.5386103777774545
+4,Cardiovascular diseases,propranolol,2.5249976355625825
+4,Cardiovascular diseases,week,2.5016722352974643
+4,Cardiovascular diseases,chf,2.470434621634742
+4,Cardiovascular diseases,extracorporeal,2.462952135271164
+4,Cardiovascular diseases,ultrasound,2.429561954943509
+4,Cardiovascular diseases,leads,2.4038927059284414
+4,Cardiovascular diseases,atrioventricular,2.3993228501038217
+4,Cardiovascular diseases,day,2.3964522057523094
+4,Cardiovascular diseases,therapy in,2.384556012377077
+4,Cardiovascular diseases,sample,2.366147780377747
+4,Cardiovascular diseases,vasculopathy,2.3587791662691733
+4,Cardiovascular diseases,two dimensional,2.294981362665974
+4,Cardiovascular diseases,extremity,2.231847329024265
+4,Cardiovascular diseases,transplantation,2.225239158416747
+4,Cardiovascular diseases,valves,2.2100194742930706
+4,Cardiovascular diseases,lower,2.166180697290639
+4,Cardiovascular diseases,fibrin,2.1534683381858835
+4,Cardiovascular diseases,echocardiographic,2.143270100725099
+4,Cardiovascular diseases,001,2.1317301865639124
+4,Cardiovascular diseases,release,2.1039111800440105
+4,Cardiovascular diseases,pressure,2.087773962242103
+4,Cardiovascular diseases,vessels,2.0776892024566522
+4,Cardiovascular diseases,heparin,2.025579072603358
+4,Cardiovascular diseases,cavernous,2.0223977852127506
+4,Cardiovascular diseases,limb,2.0198848160015754
+4,Cardiovascular diseases,men,1.9333931112652438
+4,Cardiovascular diseases,myocardial infarction,1.8956898520979635
+4,Cardiovascular diseases,right ventricular,1.8709201031804887
+4,Cardiovascular diseases,thrombolytic,1.8419425767397022
+4,Cardiovascular diseases,calcium,1.8358114209847851
+4,Cardiovascular diseases,both,1.7475457514808728
+4,Cardiovascular diseases,assessment,1.7172402585460735
+4,Cardiovascular diseases,life,1.6812164340008213
+4,Cardiovascular diseases,angiographic,1.666070263974058
+4,Cardiovascular diseases,balloon,1.5984387309979258
+4,Cardiovascular diseases,angiomatosis,1.5536807558913344
+4,Cardiovascular diseases,distal,1.5514226694055746
+4,Cardiovascular diseases,mg,1.4666428916824488
+4,Cardiovascular diseases,class,1.4613368325545761
+4,Cardiovascular diseases,vena,1.4579307995515043
+4,Cardiovascular diseases,dst,1.40932652310499
+4,Cardiovascular diseases,idiopathic,1.4087018771661086
+4,Cardiovascular diseases,resulted,1.4075359099136
+4,Cardiovascular diseases,of hypertension,1.384467031531535
+4,Cardiovascular diseases,fraction,1.3713616738666838
+4,Cardiovascular diseases,verapamil,1.3713427703167782
+4,Cardiovascular diseases,glomerular,1.34198474056829
+4,Cardiovascular diseases,diltiazem,1.320594808746997
+4,Cardiovascular diseases,adrenergic,1.2699300267022233
+4,Cardiovascular diseases,anticoagulant therapy,1.2626136594342454
+4,Cardiovascular diseases,cardiac arrest,1.2343844410760563
+4,Cardiovascular diseases,sodium,1.2152245941674586
+4,Cardiovascular diseases,was,1.2004746018780394
+4,Cardiovascular diseases,ejection,1.1657412425744091
+4,Cardiovascular diseases,years,1.1636480234395248
+4,Cardiovascular diseases,induced,1.1611381741205524
+4,Cardiovascular diseases,catheterization,1.1361527724620841
+4,Cardiovascular diseases,great,1.1329623440769983
+4,Cardiovascular diseases,dose,1.0810853775814286
+4,Cardiovascular diseases,aggregation,1.0535601201063447
+4,Cardiovascular diseases,cya,1.0225392408398213
+4,Cardiovascular diseases,data,1.0183706665911987
+4,Cardiovascular diseases,bacillary angiomatosis,0.9946427330370861
+4,Cardiovascular diseases,carotid,0.9814877003278053
+4,Cardiovascular diseases,patients,0.9761486847205708
+4,Cardiovascular diseases,mellitus,0.9657119385627221
+4,Cardiovascular diseases,renin,0.9610198699374759
+4,Cardiovascular diseases,limbs,0.927447099862098
+4,Cardiovascular diseases,aneurysms,0.9045206208240038
+4,Cardiovascular diseases,threatening,0.878196710667891
+4,Cardiovascular diseases,tc,0.8617536568267523
+4,Cardiovascular diseases,drinkers,0.8267088522400774
+4,Cardiovascular diseases,literature,0.8135969826121788
+4,Cardiovascular diseases,cardiomyopathic,0.7944123236736066
+4,Cardiovascular diseases,which was,0.7877612661577419
+4,Cardiovascular diseases,its,0.7862376214902309
+4,Cardiovascular diseases,ami,0.7784722667127196
+4,Cardiovascular diseases,mm,0.7738022160077999
+4,Cardiovascular diseases,dietary,0.7639279533975545
+4,Cardiovascular diseases,the arterial,0.749621213804869
+4,Cardiovascular diseases,superior vena,0.7180090599898621
+4,Cardiovascular diseases,baseline,0.690628619170776
+4,Cardiovascular diseases,levels,0.685161446047955
+4,Cardiovascular diseases,dr4,0.6770148245344749
+4,Cardiovascular diseases,aortic dissection,0.6700467763013043
+4,Cardiovascular diseases,complication of,0.6317223108040223
+4,Cardiovascular diseases,segments,0.611839649184508
+4,Cardiovascular diseases,oil,0.5759568510954877
+4,Cardiovascular diseases,disease,0.5694185203824322
+4,Cardiovascular diseases,group,0.5486847776216306
+4,Cardiovascular diseases,clinically,0.5430035139099374
+4,Cardiovascular diseases,the clinical,0.5217003871115202
+4,Cardiovascular diseases,delay,0.5121280451617121
+4,Cardiovascular diseases,lower extremities,0.4624562739358528
+4,Cardiovascular diseases,was found,0.4436424330418228
+4,Cardiovascular diseases,health,0.44352156598404746
+4,Cardiovascular diseases,extremities,0.43139903935016416
+4,Cardiovascular diseases,cad,0.41219409613933694
+4,Cardiovascular diseases,have,0.40746846093773736
+4,Cardiovascular diseases,rupture,0.4005120354683647
+4,Cardiovascular diseases,vessel,0.3966462184342162
+4,Cardiovascular diseases,compared,0.3926190265378207
+4,Cardiovascular diseases,lipid,0.3725087409973892
+4,Cardiovascular diseases,abdominal aortic,0.37177393855028845
+4,Cardiovascular diseases,short,0.35651887766288637
+4,Cardiovascular diseases,trauma,0.35032610512735685
+4,Cardiovascular diseases,admission,0.34298335393287277
+4,Cardiovascular diseases,increase,0.3199753256374792
+4,Cardiovascular diseases,high,0.30421042271211085
+4,Cardiovascular diseases,before and,0.30045994224632244
+4,Cardiovascular diseases,platelet,0.2562416960998439
+4,Cardiovascular diseases,ventricle,0.253479313214834
+4,Cardiovascular diseases,and after,0.24602936056299815
+4,Cardiovascular diseases,tar,0.23419104632645776
+4,Cardiovascular diseases,popliteal,0.22715585372455768
+4,Cardiovascular diseases,retinal,0.20304573602839385
+4,Cardiovascular diseases,the superior,0.17840771878893116
+4,Cardiovascular diseases,emboli,0.15849315529058172
+4,Cardiovascular diseases,73,0.1514511274871489
+4,Cardiovascular diseases,known,0.13257315044236628
+4,Cardiovascular diseases,physicians,0.13061816453468925
+4,Cardiovascular diseases,99m,0.12455691926552406
+4,Cardiovascular diseases,with cardiac,0.09326575500155398
+4,Cardiovascular diseases,01,0.07055143955923913
+4,Cardiovascular diseases,consumption,0.06822474560680387
+4,Cardiovascular diseases,form of,0.05065354663589697
+4,Cardiovascular diseases,ca2,0.03482711399977045
+4,Cardiovascular diseases,vein,0.00756626796310305
+4,Cardiovascular diseases,gca,0.005125326691818976
+4,Cardiovascular diseases,echocardiography,0.0010806209002821897
+4,Cardiovascular diseases,diabetes mellitus,0.00030533178854903097
+4,Cardiovascular diseases,drainage,-0.000469831905328999
+4,Cardiovascular diseases,usually,-0.058022968289860054
+4,Cardiovascular diseases,rat,-0.1168433836926089
+4,Cardiovascular diseases,bypass,-0.1324532482527345
+4,Cardiovascular diseases,melanoma,-0.1585399090078818
+4,Cardiovascular diseases,migraine,-0.18715360168056722
+4,Cardiovascular diseases,weight,-0.24058789237103614
+4,Cardiovascular diseases,blood loss,-0.27386287211294474
+4,Cardiovascular diseases,gene,-0.3383039721157527
+4,Cardiovascular diseases,management,-0.3397779861270699
+4,Cardiovascular diseases,rectal,-0.369817358513773
+4,Cardiovascular diseases,chemotherapy,-0.3905551112309134
+4,Cardiovascular diseases,dogs,-0.4381620659792839
+4,Cardiovascular diseases,dna,-0.4630850178061329
+4,Cardiovascular diseases,hour,-0.5176249377656711
+4,Cardiovascular diseases,lung,-0.5199961461866123
+4,Cardiovascular diseases,needle,-0.5301579546074578
+4,Cardiovascular diseases,hemorrhage,-0.5411844027363769
+4,Cardiovascular diseases,possible,-0.5427596955559878
+4,Cardiovascular diseases,expression,-0.5556321882641841
+4,Cardiovascular diseases,similar to,-0.5893413154049396
+4,Cardiovascular diseases,origin,-0.5937401089120706
+4,Cardiovascular diseases,treated,-0.5957990607951532
+4,Cardiovascular diseases,we have,-0.6254658562121572
+4,Cardiovascular diseases,chronic,-0.6303781841962031
+4,Cardiovascular diseases,vs,-0.6325818358389894
+4,Cardiovascular diseases,unit,-0.6384900300913918
+4,Cardiovascular diseases,acute,-0.6460165711282803
+4,Cardiovascular diseases,angioplasty of,-0.6600462033360721
+4,Cardiovascular diseases,as,-0.6933326204220059
+4,Cardiovascular diseases,congenital,-0.6955524152249959
+4,Cardiovascular diseases,morbidity,-0.7067343554672981
+4,Cardiovascular diseases,co,-0.7068773337808365
+4,Cardiovascular diseases,most,-0.7854614638580899
+4,Cardiovascular diseases,500,-0.7970797891901094
+4,Cardiovascular diseases,defibrillation,-0.8321579551589976
+4,Cardiovascular diseases,seizures,-0.8399712395603334
+4,Cardiovascular diseases,postoperatively,-0.9173211445171342
+4,Cardiovascular diseases,through,-0.971380489147578
+4,Cardiovascular diseases,time,-0.9852736884187915
+4,Cardiovascular diseases,artery and,-0.9929947797947111
+4,Cardiovascular diseases,this,-1.0407091792632013
+4,Cardiovascular diseases,although,-1.0812035662583939
+4,Cardiovascular diseases,valve replacement,-1.0922039662797853
+4,Cardiovascular diseases,percent,-1.1190406745175918
+4,Cardiovascular diseases,responses,-1.2112470551482026
+4,Cardiovascular diseases,examination,-1.2332272165866334
+4,Cardiovascular diseases,biliary,-1.2929889055195278
+4,Cardiovascular diseases,remission,-1.3290020395866597
+4,Cardiovascular diseases,implantation,-1.4106556697197972
+4,Cardiovascular diseases,60,-1.4219219373527263
+4,Cardiovascular diseases,cerebral,-1.463339473865015
+4,Cardiovascular diseases,occur,-1.5639233470683545
+4,Cardiovascular diseases,structural,-1.6505963483390875
+4,Cardiovascular diseases,congenital heart,-1.695416593671027
+4,Cardiovascular diseases,bleeding,-1.7119382161601862
+4,Cardiovascular diseases,liver,-1.7211545791963092
+4,Cardiovascular diseases,four,-1.7344461796253114
+4,Cardiovascular diseases,syndrome,-1.7798796993737651
+4,Cardiovascular diseases,gallbladder,-1.8389277699545015
+4,Cardiovascular diseases,human,-1.841130818516447
+4,Cardiovascular diseases,bowel,-1.9662819109285765
+4,Cardiovascular diseases,required,-2.0303145314579694
+4,Cardiovascular diseases,growth,-2.1294344166204757
+4,Cardiovascular diseases,ectopic,-2.226145386541439
+4,Cardiovascular diseases,initial,-2.3660147714498465
+4,Cardiovascular diseases,degrees,-2.4651113910337203
+4,Cardiovascular diseases,visual,-2.519534182939594
+4,Cardiovascular diseases,leukemia,-2.630551228480765
+4,Cardiovascular diseases,cell,-2.6307704835136243
+4,Cardiovascular diseases,shunting,-2.633333969951117
+4,Cardiovascular diseases,cases,-2.6665695868303394
+4,Cardiovascular diseases,nasal,-2.7517873712393843
+4,Cardiovascular diseases,gastric,-2.7858190130186213
+4,Cardiovascular diseases,nerve,-2.8602573537861042
+4,Cardiovascular diseases,intracranial,-2.8675124964846526
+4,Cardiovascular diseases,tumors,-2.9586358891281406
+4,Cardiovascular diseases,children,-2.969401619151148
+4,Cardiovascular diseases,gastroepiploic,-2.9834965122813655
+4,Cardiovascular diseases,type,-3.0799745894367887
+4,Cardiovascular diseases,portal hypertension,-3.2366977750898864
+4,Cardiovascular diseases,complications,-3.2551342223505837
+4,Cardiovascular diseases,shock,-3.2828092229779355
+4,Cardiovascular diseases,urine,-3.290601392190994
+4,Cardiovascular diseases,stent,-3.7709471731230697
+4,Cardiovascular diseases,esophageal,-3.780551938920757
+4,Cardiovascular diseases,cells,-3.7870324486863804
+4,Cardiovascular diseases,was significantly,-4.008815759171709
+4,Cardiovascular diseases,bile,-4.040276262523299
+4,Cardiovascular diseases,recurrent,-4.047265686708701
+4,Cardiovascular diseases,heart rate,-4.45396274851169
+4,Cardiovascular diseases,arrhythmias,-4.5295658084804495
+4,Cardiovascular diseases,head,-4.557612870332693
+4,Cardiovascular diseases,motor,-4.657503268368537
+4,Cardiovascular diseases,focal,-4.669596267587034
+4,Cardiovascular diseases,cerebral infarction,-4.671625730946642
+4,Cardiovascular diseases,saturation,-5.098817272380252
+4,Cardiovascular diseases,15,-5.3135523851621
+4,Cardiovascular diseases,brain,-5.453413107058477
+4,Cardiovascular diseases,graft,-5.476285697588812
+4,Cardiovascular diseases,infection,-5.856566335352611
+4,Cardiovascular diseases,inflammatory,-6.133520859864872
+4,Cardiovascular diseases,ventricular fibrillation,-6.161611015353029
+4,Cardiovascular diseases,cerebrovascular,-6.225850682621798
+4,Cardiovascular diseases,pain,-6.697907582092584
+4,Cardiovascular diseases,benign,-7.050883515627385
+4,Cardiovascular diseases,cirrhosis,-8.324114823863832
+4,Cardiovascular diseases,intracranial hypertension,-8.427906149100073
+4,Cardiovascular diseases,stroke,-8.870322622105174
+4,Cardiovascular diseases,postoperative,-10.999995448963086
+4,Cardiovascular diseases,carcinoma,-13.28028159214239
+4,Cardiovascular diseases,cancer,-14.083344497564067
+4,Cardiovascular diseases,tumor,-24.533704054270792
+5,General pathological conditions,postoperative,14.93945185766168
+5,General pathological conditions,deletion,14.818088191732992
+5,General pathological conditions,recurrent,12.089517244325082
+5,General pathological conditions,hemorrhage,12.083125612943517
+5,General pathological conditions,airway,11.684415337474638
+5,General pathological conditions,hypoxia,11.482457276847187
+5,General pathological conditions,facial,10.764265174009932
+5,General pathological conditions,transformation,10.751251299173674
+5,General pathological conditions,malignant hyperthermia,10.677017244806473
+5,General pathological conditions,oxygen saturation,10.380579709334596
+5,General pathological conditions,arthroplasties,9.784387156881026
+5,General pathological conditions,retroperitoneal fibrosis,9.681699117636292
+5,General pathological conditions,acute,9.503101479323368
+5,General pathological conditions,bleeding,9.098235194409376
+5,General pathological conditions,with chronic,9.046590703401089
+5,General pathological conditions,necrosis,8.827054038196072
+5,General pathological conditions,cadaveric,8.801433684780237
+5,General pathological conditions,illness,8.780134674827773
+5,General pathological conditions,abscess,8.780106819961892
+5,General pathological conditions,allergic,8.736119101181178
+5,General pathological conditions,inflammatory,8.682254209845201
+5,General pathological conditions,stent,8.600739267587263
+5,General pathological conditions,susceptibility,8.369388250378886
+5,General pathological conditions,emergency,8.316401998525349
+5,General pathological conditions,dyspepsia,8.295393501909848
+5,General pathological conditions,infections,8.279783857139256
+5,General pathological conditions,leak,8.00499454277998
+5,General pathological conditions,fetuses,7.995256877531696
+5,General pathological conditions,degrees,7.9145728713718535
+5,General pathological conditions,vitreous,7.903245309334692
+5,General pathological conditions,grafts,7.826485904556291
+5,General pathological conditions,arrhythmias,7.748932286301429
+5,General pathological conditions,eosinophilia,7.718093715574349
+5,General pathological conditions,fatigue,7.691702009359122
+5,General pathological conditions,oedema,7.628205382856342
+5,General pathological conditions,stress,7.5829593371279005
+5,General pathological conditions,hypothesized,7.501913181816991
+5,General pathological conditions,nephropathy,7.426485864876479
+5,General pathological conditions,culture,7.40671707722242
+5,General pathological conditions,blood loss,7.398596123859102
+5,General pathological conditions,tremor,7.374020166245062
+5,General pathological conditions,chromosomes,7.336065413482486
+5,General pathological conditions,chronic,7.249112612988452
+5,General pathological conditions,transfusion,7.152705262835369
+5,General pathological conditions,urinary,6.874381629221655
+5,General pathological conditions,paralysis,6.803868371673921
+5,General pathological conditions,prostatic,6.786758603243193
+5,General pathological conditions,sinus,6.776270699160873
+5,General pathological conditions,oncogenes,6.599037192100174
+5,General pathological conditions,back,6.579637833255673
+5,General pathological conditions,preeclampsia,6.524351898019902
+5,General pathological conditions,endothelial cell,6.509296269420463
+5,General pathological conditions,atrophy,6.501172069338469
+5,General pathological conditions,twins,6.209432661739723
+5,General pathological conditions,sudden,6.15009309461109
+5,General pathological conditions,lysis,6.069797612164356
+5,General pathological conditions,defibrillation,5.908593405032788
+5,General pathological conditions,respiratory,5.6877887992769836
+5,General pathological conditions,postmortem,5.675486902249589
+5,General pathological conditions,lung,5.666802326307355
+5,General pathological conditions,although,5.648819015072346
+5,General pathological conditions,load,5.570632382826159
+5,General pathological conditions,fistulas,5.549691216910193
+5,General pathological conditions,morbidity,5.358813627475361
+5,General pathological conditions,relapse,5.331107445468103
+5,General pathological conditions,emphysema,5.286837111201507
+5,General pathological conditions,200,5.269618680305832
+5,General pathological conditions,series,5.255408423024223
+5,General pathological conditions,o2,5.237415639237627
+5,General pathological conditions,prostheses,5.12917279108654
+5,General pathological conditions,dogs,5.007470218643235
+5,General pathological conditions,loss,4.990268837525712
+5,General pathological conditions,aspirin,4.988678189439362
+5,General pathological conditions,pneumothorax,4.983253439074142
+5,General pathological conditions,hyperplasia,4.975853476117404
+5,General pathological conditions,typically,4.7834372889697505
+5,General pathological conditions,gene,4.762937132529568
+5,General pathological conditions,asthma,4.757311222996419
+5,General pathological conditions,hypoxic,4.756580245739474
+5,General pathological conditions,social,4.651070714613296
+5,General pathological conditions,hypothermia,4.596613382408975
+5,General pathological conditions,cadaver,4.5819487567229
+5,General pathological conditions,deletions,4.554724116778656
+5,General pathological conditions,to study,4.53946113713453
+5,General pathological conditions,15,4.514241992615892
+5,General pathological conditions,the rat,4.513066504626502
+5,General pathological conditions,prompt,4.452348824477484
+5,General pathological conditions,constipation,4.354194499645362
+5,General pathological conditions,respiratory tract,4.246233396697057
+5,General pathological conditions,result,4.239017450170357
+5,General pathological conditions,whose,4.232036770404746
+5,General pathological conditions,metaplasia,4.176149632771835
+5,General pathological conditions,prosthetic,4.116035032544947
+5,General pathological conditions,premenstrual,4.100847214257978
+5,General pathological conditions,child,4.097215226733096
+5,General pathological conditions,oxygen,4.078256264673545
+5,General pathological conditions,infection,4.062673101752325
+5,General pathological conditions,body,4.0563796192491735
+5,General pathological conditions,band,4.040676312822587
+5,General pathological conditions,granuloma,4.0317299773589275
+5,General pathological conditions,collar,4.024320083702114
+5,General pathological conditions,implant,4.020174555823401
+5,General pathological conditions,upon,3.9882445688030503
+5,General pathological conditions,fistula,3.9618035055153493
+5,General pathological conditions,environment,3.954481230477217
+5,General pathological conditions,flumazenil,3.9358051863547456
+5,General pathological conditions,herpes,3.9051131631997595
+5,General pathological conditions,failed,3.8970580755039137
+5,General pathological conditions,cystitis,3.8935020631520474
+5,General pathological conditions,urine,3.859579597382005
+5,General pathological conditions,were,3.858077739471383
+5,General pathological conditions,shock,3.821775353619536
+5,General pathological conditions,cartilage,3.813225692489259
+5,General pathological conditions,unknown origin,3.8032746281400365
+5,General pathological conditions,disc,3.8025762054377257
+5,General pathological conditions,trauma,3.7905077678913286
+5,General pathological conditions,fever,3.7889986845037433
+5,General pathological conditions,sarcoidosis,3.788929838650228
+5,General pathological conditions,translocation,3.7839267039091786
+5,General pathological conditions,plexus block,3.770078407269634
+5,General pathological conditions,inflammation,3.671085451464389
+5,General pathological conditions,segmental,3.5985565419873926
+5,General pathological conditions,of injury,3.5961606131337804
+5,General pathological conditions,third,3.589800154835748
+5,General pathological conditions,heterotopic,3.5516412806399287
+5,General pathological conditions,stable,3.5259483527357154
+5,General pathological conditions,hypertrophy,3.5233104931837635
+5,General pathological conditions,in which,3.440723125703763
+5,General pathological conditions,14,3.4244611339301847
+5,General pathological conditions,transforming,3.4235674929677478
+5,General pathological conditions,poisoning,3.3736509781252426
+5,General pathological conditions,expansion,3.3658295934479185
+5,General pathological conditions,between the,3.3568417068877654
+5,General pathological conditions,congenital heart,3.3561957548704022
+5,General pathological conditions,male,3.35236526805301
+5,General pathological conditions,trisomy,3.3466361450176234
+5,General pathological conditions,volumes,3.345723464815859
+5,General pathological conditions,24,3.298998375448156
+5,General pathological conditions,ventricular fibrillation,3.2775630562643236
+5,General pathological conditions,followup,3.229689470849047
+5,General pathological conditions,patient and,3.227963212321658
+5,General pathological conditions,graft,3.2007798873959565
+5,General pathological conditions,gastroepiploic,3.169108602060456
+5,General pathological conditions,amenorrhea,3.166192944839323
+5,General pathological conditions,foreign,3.1498127465240273
+5,General pathological conditions,inpatient,3.1399292038757993
+5,General pathological conditions,isolates,3.1289718993738
+5,General pathological conditions,contracture,3.0863900008615928
+5,General pathological conditions,dysrhythmias,3.0837753789504387
+5,General pathological conditions,older,3.019480972356197
+5,General pathological conditions,premature,3.005619579083504
+5,General pathological conditions,hyperkalemia,3.003631766766558
+5,General pathological conditions,meniere,2.981443774703463
+5,General pathological conditions,pleural,2.980528355042062
+5,General pathological conditions,repair,2.9781381685120607
+5,General pathological conditions,chromosomal,2.9646825135342927
+5,General pathological conditions,glaucoma,2.9569565956789927
+5,General pathological conditions,prolonged,2.955852265053537
+5,General pathological conditions,mds,2.9423021860611147
+5,General pathological conditions,within,2.9316878297926596
+5,General pathological conditions,complications,2.886816662135661
+5,General pathological conditions,immunoglobulin,2.881674853892548
+5,General pathological conditions,graft patency,2.8469242086582116
+5,General pathological conditions,of spontaneous,2.8015410465063835
+5,General pathological conditions,patient controlled,2.7796341253041112
+5,General pathological conditions,temporomandibular,2.775576684242309
+5,General pathological conditions,percent,2.769536148234146
+5,General pathological conditions,endodontic,2.739173348350196
+5,General pathological conditions,revision,2.734646167173971
+5,General pathological conditions,ears,2.734306111785817
+5,General pathological conditions,testis,2.696550384621473
+5,General pathological conditions,progressive,2.6936991802738715
+5,General pathological conditions,we,2.671410848487593
+5,General pathological conditions,in cases,2.6633606822613687
+5,General pathological conditions,min after,2.661217810390147
+5,General pathological conditions,antibiotic,2.6528747101976706
+5,General pathological conditions,the treatment,2.6105609402935843
+5,General pathological conditions,or placebo,2.576846269438832
+5,General pathological conditions,metal,2.5670453292931033
+5,General pathological conditions,menstrual,2.543279277542163
+5,General pathological conditions,tryptophan,2.511288195034155
+5,General pathological conditions,syndromes,2.5104773919143506
+5,General pathological conditions,collagen,2.4968250646439967
+5,General pathological conditions,growth hormone,2.4903708474506945
+5,General pathological conditions,eyes,2.464810967194386
+5,General pathological conditions,birth,2.4020293890671653
+5,General pathological conditions,six months,2.3716058084032032
+5,General pathological conditions,low,2.3533825800317523
+5,General pathological conditions,hip,2.3478866536797036
+5,General pathological conditions,psychiatric,2.3362374927318044
+5,General pathological conditions,bypass,2.3196328230259278
+5,General pathological conditions,frequency,2.3182608526938897
+5,General pathological conditions,surgery,2.3164882932520685
+5,General pathological conditions,necrotizing,2.313119560171333
+5,General pathological conditions,then,2.280887238046593
+5,General pathological conditions,injury,2.2737460001902376
+5,General pathological conditions,density,2.2722179613656577
+5,General pathological conditions,this report,2.2673976363889836
+5,General pathological conditions,ear,2.2459301238707856
+5,General pathological conditions,prostate,2.237099448480189
+5,General pathological conditions,weight,2.2205445114790687
+5,General pathological conditions,syndrome,2.2175615710667147
+5,General pathological conditions,isolated,2.16488660793825
+5,General pathological conditions,required,2.1371091376881863
+5,General pathological conditions,synthesis,2.1335854296874266
+5,General pathological conditions,materials,2.1271577773961288
+5,General pathological conditions,perinatal,2.083938468545802
+5,General pathological conditions,hemorrhagic,2.0462692884225224
+5,General pathological conditions,hypoxemia,2.0411585804089194
+5,General pathological conditions,each,2.0340130558400835
+5,General pathological conditions,sciatica,2.023218256191731
+5,General pathological conditions,mouse,2.0096648122879968
+5,General pathological conditions,implantation,2.00549575691164
+5,General pathological conditions,occurred,2.002152944258017
+5,General pathological conditions,abnormalities of,1.9827472119861769
+5,General pathological conditions,short bowel,1.96504803566058
+5,General pathological conditions,obstructive,1.9641231764164548
+5,General pathological conditions,splenectomy,1.9491376957684885
+5,General pathological conditions,through,1.9384529221334508
+5,General pathological conditions,ill,1.9344224310541716
+5,General pathological conditions,haemorrhage,1.9284421031348675
+5,General pathological conditions,trna,1.9283639894373563
+5,General pathological conditions,bone,1.9079772890899642
+5,General pathological conditions,alveolar,1.9037963781552183
+5,General pathological conditions,per,1.9006378590787532
+5,General pathological conditions,operative,1.899293118210352
+5,General pathological conditions,growth and,1.897615502323194
+5,General pathological conditions,gangrenosum,1.8789913305792447
+5,General pathological conditions,in the,1.871981356965171
+5,General pathological conditions,hypersensitivity,1.8684781152141698
+5,General pathological conditions,care,1.8555824765179307
+5,General pathological conditions,freezing,1.845234178124392
+5,General pathological conditions,revealed,1.8447926685326357
+5,General pathological conditions,mice,1.8257394228617472
+5,General pathological conditions,synovitis,1.8242143341056989
+5,General pathological conditions,gh,1.8080790501310369
+5,General pathological conditions,with no,1.8049453602411574
+5,General pathological conditions,among the,1.7978799248365978
+5,General pathological conditions,consider,1.7535388369325917
+5,General pathological conditions,fracture,1.7229855622118195
+5,General pathological conditions,pattern,1.709240132497589
+5,General pathological conditions,surfaces,1.691926578613455
+5,General pathological conditions,severe,1.6792989942387961
+5,General pathological conditions,solution,1.6728376877634386
+5,General pathological conditions,occurs,1.6384512150879191
+5,General pathological conditions,percutaneous,1.6359316154107326
+5,General pathological conditions,caffeine,1.6197290421759614
+5,General pathological conditions,multiple sclerosis,1.614376126061785
+5,General pathological conditions,gene is,1.60249175370446
+5,General pathological conditions,vs,1.6013380313330916
+5,General pathological conditions,children,1.6003755526055736
+5,General pathological conditions,desmopressin,1.599295660235329
+5,General pathological conditions,demonstrated by,1.5949809255936198
+5,General pathological conditions,tendon,1.592772860356193
+5,General pathological conditions,significant difference,1.5882135927946763
+5,General pathological conditions,times,1.5842050165879187
+5,General pathological conditions,time,1.568771849996811
+5,General pathological conditions,neutrophils,1.5582567124813762
+5,General pathological conditions,intraocular,1.5542250423303017
+5,General pathological conditions,epithelium,1.5375394993953992
+5,General pathological conditions,obscure,1.53057453592794
+5,General pathological conditions,by the,1.5296599476814292
+5,General pathological conditions,avascular,1.5294104743948915
+5,General pathological conditions,co,1.518350639013059
+5,General pathological conditions,was to,1.5071818736975795
+5,General pathological conditions,complement,1.491599158668368
+5,General pathological conditions,acute myeloid,1.4905171347220925
+5,General pathological conditions,case is,1.4886995764401785
+5,General pathological conditions,severity,1.4843706093586388
+5,General pathological conditions,femoral,1.4736578701471579
+5,General pathological conditions,fetal,1.4709017460408476
+5,General pathological conditions,several,1.4638369831765055
+5,General pathological conditions,arrhythmia,1.4625998787345111
+5,General pathological conditions,indicators,1.424412197437516
+5,General pathological conditions,must be,1.408078686779829
+5,General pathological conditions,3t3,1.4077369795273778
+5,General pathological conditions,the bone,1.4020160746890036
+5,General pathological conditions,as,1.4013634997068227
+5,General pathological conditions,mortality,1.3933903705074522
+5,General pathological conditions,stature,1.3879355412373195
+5,General pathological conditions,pregnancies,1.382436485163512
+5,General pathological conditions,most,1.3675057962674242
+5,General pathological conditions,hb,1.3659106007689958
+5,General pathological conditions,proteinuria,1.3512026323144404
+5,General pathological conditions,src,1.3418822926262242
+5,General pathological conditions,febrile,1.339954479437233
+5,General pathological conditions,pregnancy,1.3203018095204284
+5,General pathological conditions,low risk,1.3179420104247126
+5,General pathological conditions,susceptibility to,1.3135825486599186
+5,General pathological conditions,bioprosthetic,1.3039326647719192
+5,General pathological conditions,nail,1.274953458452064
+5,General pathological conditions,this,1.2677666193400263
+5,General pathological conditions,drainage,1.2649977621352657
+5,General pathological conditions,benzodiazepines,1.2633119002607935
+5,General pathological conditions,the first,1.2617114389330992
+5,General pathological conditions,itraconazole,1.2351032322753206
+5,General pathological conditions,the study,1.2208397913483509
+5,General pathological conditions,corticosteroids,1.2045583482971673
+5,General pathological conditions,displacement,1.194839133725553
+5,General pathological conditions,cellular,1.184812665034848
+5,General pathological conditions,effect on,1.1840345167078388
+5,General pathological conditions,requires,1.1818079479515486
+5,General pathological conditions,parents,1.1574007226017855
+5,General pathological conditions,unit,1.1405569036921273
+5,General pathological conditions,produces,1.0968400708870643
+5,General pathological conditions,help,1.0718076974237043
+5,General pathological conditions,procainamide,1.0636460153485636
+5,General pathological conditions,postoperatively,1.057969817874001
+5,General pathological conditions,complex,1.0541571956948517
+5,General pathological conditions,replacement,1.0541337293219644
+5,General pathological conditions,deficient,1.0364962339534014
+5,General pathological conditions,persistent,1.0295005268270179
+5,General pathological conditions,wound,1.0218787857353424
+5,General pathological conditions,adaptation,1.0201225519478874
+5,General pathological conditions,increases in,1.0195084851545788
+5,General pathological conditions,to,1.0176729953927015
+5,General pathological conditions,response to,1.011423649773713
+5,General pathological conditions,experiment,1.0103056699450355
+5,General pathological conditions,of major,1.0022579931670972
+5,General pathological conditions,life,1.0019457078765517
+5,General pathological conditions,had the,1.0017745355224426
+5,General pathological conditions,inactivation,0.9959940142328386
+5,General pathological conditions,memory,0.9819680969998976
+5,General pathological conditions,cranial,0.9814038662268859
+5,General pathological conditions,full,0.9797062690220165
+5,General pathological conditions,cerebrovascular,0.9770194804718105
+5,General pathological conditions,the process,0.9764505815026745
+5,General pathological conditions,result in,0.9722810539042243
+5,General pathological conditions,lupus,0.967208668011544
+5,General pathological conditions,patent,0.9670604274224177
+5,General pathological conditions,evaluations,0.95922693127671
+5,General pathological conditions,factor,0.9585407441468291
+5,General pathological conditions,hypoxaemia,0.9510663933481461
+5,General pathological conditions,delayed,0.9366404879098138
+5,General pathological conditions,tnf,0.9320622837817718
+5,General pathological conditions,tract infection,0.9293349686272658
+5,General pathological conditions,anesthesia,0.9260283733838183
+5,General pathological conditions,following,0.9120553547250176
+5,General pathological conditions,stents,0.8887255216227476
+5,General pathological conditions,initial,0.8799283357633615
+5,General pathological conditions,toxic,0.8771977910091513
+5,General pathological conditions,split,0.8764388826617127
+5,General pathological conditions,panic,0.8578214969847195
+5,General pathological conditions,cholecystectomy,0.8553312591215655
+5,General pathological conditions,investigated,0.8504835717596279
+5,General pathological conditions,46,0.840273036062821
+5,General pathological conditions,otitis media,0.8302797669817611
+5,General pathological conditions,32,0.8265003490655627
+5,General pathological conditions,groups,0.8202515140245944
+5,General pathological conditions,of years,0.8138609906855081
+5,General pathological conditions,stethoscope,0.8029294596716302
+5,General pathological conditions,pyoderma gangrenosum,0.7984896594746633
+5,General pathological conditions,people,0.7906299764854237
+5,General pathological conditions,reactions,0.7830188564195739
+5,General pathological conditions,functions,0.7675303908365535
+5,General pathological conditions,dna binding,0.7661538863482092
+5,General pathological conditions,fibrosis,0.7577871436510248
+5,General pathological conditions,the femoral,0.7447848241169898
+5,General pathological conditions,orbital,0.7427995149822281
+5,General pathological conditions,at,0.7355820178285596
+5,General pathological conditions,injuries,0.722802414220599
+5,General pathological conditions,salivary gland,0.7170112102873246
+5,General pathological conditions,open,0.7166589673906529
+5,General pathological conditions,septic,0.7124658261337438
+5,General pathological conditions,bilateral,0.7107925909867573
+5,General pathological conditions,hearing,0.7100444439168722
+5,General pathological conditions,the results,0.7064965960564957
+5,General pathological conditions,rates,0.6971675241009931
+5,General pathological conditions,complication,0.6920949617601413
+5,General pathological conditions,other,0.6904203705948107
+5,General pathological conditions,otitis,0.680512295474518
+5,General pathological conditions,protein,0.671531828155282
+5,General pathological conditions,up,0.6710496453803054
+5,General pathological conditions,appropriate,0.6692130078664962
+5,General pathological conditions,immunodeficiency,0.6678768896015012
+5,General pathological conditions,presenting,0.6671437790355176
+5,General pathological conditions,excellent,0.6457749132738674
+5,General pathological conditions,growth,0.6436626239962093
+5,General pathological conditions,erythrocyte,0.6417221807393391
+5,General pathological conditions,twin,0.6386692678427094
+5,General pathological conditions,chest,0.6320307038640164
+5,General pathological conditions,myoclonus,0.6213872399600547
+5,General pathological conditions,spine,0.6203950574887308
+5,General pathological conditions,countries,0.6195875501323228
+5,General pathological conditions,epithelial,0.618494912885051
+5,General pathological conditions,tracheal,0.6164086474194037
+5,General pathological conditions,macrophages,0.6158292942954238
+5,General pathological conditions,unilateral,0.6052555214587096
+5,General pathological conditions,acidosis,0.5955531001674151
+5,General pathological conditions,post,0.5942170886157472
+5,General pathological conditions,mutations,0.5930649146713409
+5,General pathological conditions,article,0.586967209606961
+5,General pathological conditions,ck,0.5827051579824656
+5,General pathological conditions,response,0.5826341526131394
+5,General pathological conditions,ocular,0.5677726455910806
+5,General pathological conditions,amino,0.5336121633822721
+5,General pathological conditions,late,0.5266362457397109
+5,General pathological conditions,having,0.5228003318970679
+5,General pathological conditions,signal,0.5220146104728158
+5,General pathological conditions,pulmonary,0.5189933403339575
+5,General pathological conditions,type,0.5171590231742239
+5,General pathological conditions,differences,0.5109725332733891
+5,General pathological conditions,renal,0.5079495371608287
+5,General pathological conditions,results suggest,0.4868833140295414
+5,General pathological conditions,to bind,0.47671342495707053
+5,General pathological conditions,analgesia,0.4691808208598031
+5,General pathological conditions,silicone,0.46902309120180785
+5,General pathological conditions,pyoderma,0.4680870442141938
+5,General pathological conditions,p53,0.4650358910142262
+5,General pathological conditions,endothelial,0.46154678171496244
+5,General pathological conditions,recovery,0.45651313891859036
+5,General pathological conditions,such as,0.4476080235537256
+5,General pathological conditions,metabolic,0.4441642488961978
+5,General pathological conditions,point,0.43885080277423894
+5,General pathological conditions,episodes,0.4357288270318951
+5,General pathological conditions,implants,0.38760036437190204
+5,General pathological conditions,period,0.3722700603191317
+5,General pathological conditions,as the,0.3553363228588568
+5,General pathological conditions,hematuria,0.35416072392346426
+5,General pathological conditions,conclude,0.35075940208471873
+5,General pathological conditions,sepsis,0.34626419463250563
+5,General pathological conditions,of their,0.3416992434625413
+5,General pathological conditions,osteotomies,0.33634021712408546
+5,General pathological conditions,the duration,0.3336633947394775
+5,General pathological conditions,previous,0.33289101305851254
+5,General pathological conditions,that in,0.3238114203206618
+5,General pathological conditions,forms of,0.31837912852506245
+5,General pathological conditions,scleroderma,0.2951884638525808
+5,General pathological conditions,general,0.29166582986161027
+5,General pathological conditions,rats,0.2901357444519984
+5,General pathological conditions,in four,0.28971534353435213
+5,General pathological conditions,tissue,0.28945444471902904
+5,General pathological conditions,t2 weighted,0.28810569274772935
+5,General pathological conditions,basic,0.2720906738188659
+5,General pathological conditions,hormone,0.2669977298730587
+5,General pathological conditions,rhythm,0.25685231159788624
+5,General pathological conditions,up of,0.2523357431188012
+5,General pathological conditions,to receive,0.24894663851928403
+5,General pathological conditions,noted,0.24400712936197586
+5,General pathological conditions,cycle,0.2393875190750186
+5,General pathological conditions,well,0.2317197034696457
+5,General pathological conditions,62,0.22895390904132756
+5,General pathological conditions,pair,0.2285724375449013
+5,General pathological conditions,pulse,0.22780967070680788
+5,General pathological conditions,fractures,0.21614477538710225
+5,General pathological conditions,bupivacaine,0.21278334845306032
+5,General pathological conditions,arterial oxygen,0.20732744494024175
+5,General pathological conditions,fatty acid,0.19291355746388594
+5,General pathological conditions,an,0.19205733123311647
+5,General pathological conditions,process,0.1845250407195145
+5,General pathological conditions,does,0.17971250344499123
+5,General pathological conditions,osteotomy,0.17811546545666992
+5,General pathological conditions,units,0.17741535370708458
+5,General pathological conditions,after operation,0.17055525784930933
+5,General pathological conditions,expected,0.15532024667536626
+5,General pathological conditions,erythrocytes,0.15150270365616525
+5,General pathological conditions,episode,0.14856530352367014
+5,General pathological conditions,strictures,0.1470008049137589
+5,General pathological conditions,hypothermic,0.14011747966298846
+5,General pathological conditions,maximum,0.1364498977828005
+5,General pathological conditions,turnover,0.12583371305999105
+5,General pathological conditions,temperature,0.10708602852757987
+5,General pathological conditions,genetic,0.10420644111292945
+5,General pathological conditions,have been,0.09512932039347258
+5,General pathological conditions,latter,0.09248446070865562
+5,General pathological conditions,sem,0.08174299244601647
+5,General pathological conditions,seropositive,0.07978363459380555
+5,General pathological conditions,adhesion,0.0707587338224584
+5,General pathological conditions,arteriovenous,0.07012832844329103
+5,General pathological conditions,single,0.06686988166503517
+5,General pathological conditions,reversal,0.06539200645703204
+5,General pathological conditions,neutrophil,0.05258884132879761
+5,General pathological conditions,tubal,0.043314784728699866
+5,General pathological conditions,derived,0.04085606765838336
+5,General pathological conditions,cl,0.02692849492921915
+5,General pathological conditions,haplotype,0.02218020077724702
+5,General pathological conditions,surgery the,0.015404316277305423
+5,General pathological conditions,suicide,0.008949261666739133
+5,General pathological conditions,deaths,0.004401049151471565
+5,General pathological conditions,sachs,-0.0011255426200300475
+5,General pathological conditions,64,-0.007673952256869051
+5,General pathological conditions,labeled,-0.014874259711464402
+5,General pathological conditions,status,-0.01495244554339472
+5,General pathological conditions,insulin,-0.05830549643052415
+5,General pathological conditions,infusion,-0.06729609346571938
+5,General pathological conditions,suggested,-0.08034863788107174
+5,General pathological conditions,age of,-0.089178054370559
+5,General pathological conditions,tail,-0.09854066759348434
+5,General pathological conditions,fluid,-0.1029803584193919
+5,General pathological conditions,rna,-0.10542727102712754
+5,General pathological conditions,hernia,-0.10858417323195957
+5,General pathological conditions,midazolam,-0.11660550737973223
+5,General pathological conditions,transposition,-0.1338277401773108
+5,General pathological conditions,evoked,-0.15134839899777172
+5,General pathological conditions,hyperprolactinemia,-0.16145871261777645
+5,General pathological conditions,lymphoma,-0.17111880113777247
+5,General pathological conditions,antibodies,-0.17198968232715017
+5,General pathological conditions,tumours,-0.1803539933164601
+5,General pathological conditions,vena,-0.18860256422714075
+5,General pathological conditions,hpv,-0.19228404652700914
+5,General pathological conditions,exercise,-0.2079432039151333
+5,General pathological conditions,we report,-0.2118076990827025
+5,General pathological conditions,sensitivity,-0.21816386801820759
+5,General pathological conditions,grade,-0.21819325275067897
+5,General pathological conditions,basis of,-0.2280474706138788
+5,General pathological conditions,underlying,-0.23242381525194195
+5,General pathological conditions,idiopathic,-0.23840818353525475
+5,General pathological conditions,however the,-0.2524267191688662
+5,General pathological conditions,stage,-0.2616536227609304
+5,General pathological conditions,families,-0.2647685983001131
+5,General pathological conditions,of its,-0.265402200557635
+5,General pathological conditions,quality,-0.2939155885884516
+5,General pathological conditions,malignancies,-0.29793721906020726
+5,General pathological conditions,into,-0.30481717875413594
+5,General pathological conditions,ventricular,-0.3162289256529127
+5,General pathological conditions,high,-0.323247970141038
+5,General pathological conditions,disappeared,-0.33089623872264595
+5,General pathological conditions,performance,-0.335052210136153
+5,General pathological conditions,expression,-0.34705696745401426
+5,General pathological conditions,raynaud,-0.3485186440056493
+5,General pathological conditions,antagonists,-0.35819638382848784
+5,General pathological conditions,endoscopic,-0.36697557878312703
+5,General pathological conditions,carbamazepine,-0.36856906037032333
+5,General pathological conditions,tay,-0.3848358520726438
+5,General pathological conditions,class,-0.39303601619498696
+5,General pathological conditions,port wine,-0.396151614223969
+5,General pathological conditions,oral,-0.3994961964031865
+5,General pathological conditions,anal,-0.4016884818580799
+5,General pathological conditions,reduction,-0.4079766677056762
+5,General pathological conditions,conventional,-0.4271024158984405
+5,General pathological conditions,refractory,-0.4353400392843946
+5,General pathological conditions,developed,-0.4422696489803356
+5,General pathological conditions,segment,-0.4918050202994185
+5,General pathological conditions,nsaid,-0.4940656843857152
+5,General pathological conditions,cbz,-0.4987505603848774
+5,General pathological conditions,circulating,-0.5032478715018912
+5,General pathological conditions,states,-0.5040867050451734
+5,General pathological conditions,heparin,-0.5069512648565364
+5,General pathological conditions,reduced,-0.513602223363885
+5,General pathological conditions,two,-0.5182525165107528
+5,General pathological conditions,features,-0.5210339404648943
+5,General pathological conditions,treated with,-0.5264887286775647
+5,General pathological conditions,research,-0.5503604331862197
+5,General pathological conditions,signs of,-0.5509960810969599
+5,General pathological conditions,fraction,-0.5547494523537222
+5,General pathological conditions,alcohol,-0.5779390909865755
+5,General pathological conditions,drugs,-0.5817657327805154
+5,General pathological conditions,values,-0.5858804970622309
+5,General pathological conditions,later,-0.5994807393101922
+5,General pathological conditions,local,-0.6137615030966277
+5,General pathological conditions,the diagnosis,-0.6175161030431391
+5,General pathological conditions,traumatic,-0.6228886388772076
+5,General pathological conditions,neuromuscular,-0.6288490093354663
+5,General pathological conditions,dvt,-0.6332645891741993
+5,General pathological conditions,of the,-0.6471988466370766
+5,General pathological conditions,its,-0.6496127207991342
+5,General pathological conditions,information,-0.6584432553525265
+5,General pathological conditions,vasculitis,-0.6623205490452971
+5,General pathological conditions,versus,-0.6797974390040846
+5,General pathological conditions,thrombi,-0.6830683150409018
+5,General pathological conditions,lesion,-0.6898590873958015
+5,General pathological conditions,epo,-0.6936906769231737
+5,General pathological conditions,and therapeutic,-0.6963805701708771
+5,General pathological conditions,non,-0.7236762557678988
+5,General pathological conditions,tunnel,-0.7354062232597701
+5,General pathological conditions,angina,-0.7414180787203665
+5,General pathological conditions,monitoring,-0.7971163912170703
+5,General pathological conditions,and,-0.810145978626457
+5,General pathological conditions,secondary to,-0.810824832166098
+5,General pathological conditions,without,-0.8255477036987364
+5,General pathological conditions,protocol,-0.829248898476383
+5,General pathological conditions,the superior,-0.8612670185436002
+5,General pathological conditions,reduced the,-0.8765598630831666
+5,General pathological conditions,rather than,-0.8844547873789792
+5,General pathological conditions,of treatment,-0.8902465021316031
+5,General pathological conditions,men,-0.9083030655263546
+5,General pathological conditions,spinal,-0.9085756503601533
+5,General pathological conditions,term,-0.9170578665389341
+5,General pathological conditions,giant,-0.9187597393992496
+5,General pathological conditions,in all,-0.9205189736399767
+5,General pathological conditions,of three,-0.922323969649384
+5,General pathological conditions,occlusion,-0.9239264727568627
+5,General pathological conditions,sodium,-0.9330089089400538
+5,General pathological conditions,antihypertensive,-0.9391679949510845
+5,General pathological conditions,adenoma,-0.9436916024197944
+5,General pathological conditions,65,-0.9452984492236846
+5,General pathological conditions,central,-0.9601627726431794
+5,General pathological conditions,free,-0.9679737179849572
+5,General pathological conditions,to 10,-0.9761029589814644
+5,General pathological conditions,pancreatic,-0.9896224928386923
+5,General pathological conditions,pericardial,-0.9938326513515948
+5,General pathological conditions,outflow,-0.995694021253233
+5,General pathological conditions,the plasma,-1.0363680622840585
+5,General pathological conditions,was seen,-1.0541580027346187
+5,General pathological conditions,status and,-1.0567551726341302
+5,General pathological conditions,medicine,-1.0785743105854777
+5,General pathological conditions,subjects,-1.0800445831837766
+5,General pathological conditions,function and,-1.082253970942528
+5,General pathological conditions,infarct,-1.082715975317751
+5,General pathological conditions,correlation,-1.0874873595178054
+5,General pathological conditions,before and,-1.0895208160079266
+5,General pathological conditions,perforation,-1.1080893246316819
+5,General pathological conditions,01,-1.1168637599398006
+5,General pathological conditions,doses,-1.1269281519332301
+5,General pathological conditions,mental,-1.1386206422834781
+5,General pathological conditions,lithotripsy,-1.142993115075739
+5,General pathological conditions,diagnosed,-1.158108772014393
+5,General pathological conditions,vaccine,-1.158410900473494
+5,General pathological conditions,patient with,-1.1747607195117689
+5,General pathological conditions,relation,-1.1757112087913228
+5,General pathological conditions,dementia,-1.186592823093553
+5,General pathological conditions,ambulatory,-1.1866873124283057
+5,General pathological conditions,than,-1.1878785577886872
+5,General pathological conditions,malignancy,-1.188372598238517
+5,General pathological conditions,marrow,-1.1972661742738004
+5,General pathological conditions,calcium,-1.2009057623648522
+5,General pathological conditions,of those,-1.2065737774948613
+5,General pathological conditions,salvage,-1.2072798615112954
+5,General pathological conditions,inhibitors,-1.23015130873229
+5,General pathological conditions,arteries,-1.2463257749171024
+5,General pathological conditions,ace,-1.2470888733743046
+5,General pathological conditions,sensitive,-1.2473085116329017
+5,General pathological conditions,may,-1.2501950638072459
+5,General pathological conditions,trials,-1.2508505706271114
+5,General pathological conditions,hydrocephalus,-1.2551231613896539
+5,General pathological conditions,csf,-1.2627046173831977
+5,General pathological conditions,receiving,-1.2643119507092
+5,General pathological conditions,duodenal,-1.2696934126398642
+5,General pathological conditions,epileptic,-1.2794631922055053
+5,General pathological conditions,are,-1.2905261369017436
+5,General pathological conditions,in patients,-1.2984492638146439
+5,General pathological conditions,elderly,-1.3019634026961788
+5,General pathological conditions,tay sachs,-1.3122387834525793
+5,General pathological conditions,adenosine,-1.3157954171661104
+5,General pathological conditions,obtained,-1.3370731516250813
+5,General pathological conditions,of ischemia,-1.3402958158979652
+5,General pathological conditions,movement,-1.3480657954079254
+5,General pathological conditions,good,-1.3690580291665677
+5,General pathological conditions,symptoms,-1.38762361571618
+5,General pathological conditions,caused by,-1.403194008261787
+5,General pathological conditions,35,-1.4073308592099296
+5,General pathological conditions,latencies,-1.4408634348409672
+5,General pathological conditions,deficit,-1.4411252828758976
+5,General pathological conditions,in five,-1.445639892938888
+5,General pathological conditions,chondrosarcoma,-1.44627402047346
+5,General pathological conditions,age,-1.461355910589156
+5,General pathological conditions,treatment,-1.465387006063864
+5,General pathological conditions,myasthenia,-1.4958785629115816
+5,General pathological conditions,content,-1.5198554663411037
+5,General pathological conditions,simple,-1.530682434942423
+5,General pathological conditions,report,-1.5378194537371697
+5,General pathological conditions,charcoal,-1.5516641154840187
+5,General pathological conditions,thrombus,-1.5538493894374994
+5,General pathological conditions,increase in,-1.5780122613183678
+5,General pathological conditions,lymph,-1.5908427174294097
+5,General pathological conditions,cytologic,-1.6041616743780378
+5,General pathological conditions,balloon,-1.6067358492651962
+5,General pathological conditions,contains,-1.6179765793385688
+5,General pathological conditions,sympathetic,-1.6473814705101644
+5,General pathological conditions,studies,-1.648006726012494
+5,General pathological conditions,management of,-1.6669588863439209
+5,General pathological conditions,admission,-1.6833100394922718
+5,General pathological conditions,activity,-1.7183048932124936
+5,General pathological conditions,stones,-1.71900563271313
+5,General pathological conditions,females,-1.748046473458838
+5,General pathological conditions,from,-1.763015304801369
+5,General pathological conditions,involvement of,-1.765351551694101
+5,General pathological conditions,brain injury,-1.7673754693546189
+5,General pathological conditions,pain,-1.7801223710625202
+5,General pathological conditions,epilepsy,-1.7864222212241978
+5,General pathological conditions,stimulation,-1.8053405581725352
+5,General pathological conditions,renal failure,-1.8072512472503524
+5,General pathological conditions,has,-1.8389507862436762
+5,General pathological conditions,transcription,-1.8409927688792502
+5,General pathological conditions,periods,-1.8480776040495932
+5,General pathological conditions,hybridization,-1.8981107593382827
+5,General pathological conditions,syndrome in,-1.8996622463725517
+5,General pathological conditions,was performed,-1.9274212753529272
+5,General pathological conditions,leukemic,-1.9484702270263592
+5,General pathological conditions,thromboembolic,-1.9515303790596699
+5,General pathological conditions,cells,-1.991416986714664
+5,General pathological conditions,neuropathy,-1.9957600788988854
+5,General pathological conditions,adjuvant,-1.9998648052677115
+5,General pathological conditions,end,-2.0149918482094815
+5,General pathological conditions,alpha,-2.0250355881089046
+5,General pathological conditions,average age,-2.034840660919632
+5,General pathological conditions,improvement,-2.0449511685356203
+5,General pathological conditions,artery,-2.0655805536487857
+5,General pathological conditions,reflux,-2.0750097588527123
+5,General pathological conditions,antibody,-2.1040360511706675
+5,General pathological conditions,intraperitoneal,-2.12357022459422
+5,General pathological conditions,enteric,-2.1256693934944777
+5,General pathological conditions,cpr,-2.1387547938322524
+5,General pathological conditions,of age,-2.141149846438477
+5,General pathological conditions,critical,-2.1419686567403584
+5,General pathological conditions,usually,-2.1631306682135296
+5,General pathological conditions,mm,-2.1827104947852307
+5,General pathological conditions,the surgical,-2.1872463053794613
+5,General pathological conditions,transfer,-2.18770010944725
+5,General pathological conditions,50,-2.2061916565969755
+5,General pathological conditions,spasticity,-2.2101975082758245
+5,General pathological conditions,the procedure,-2.210278562904508
+5,General pathological conditions,hours,-2.2129414547746027
+5,General pathological conditions,responsive,-2.2474926282701118
+5,General pathological conditions,recently,-2.2506174814779834
+5,General pathological conditions,fatal,-2.254982179277737
+5,General pathological conditions,neoplasms,-2.2659302534549597
+5,General pathological conditions,wall,-2.286503242536816
+5,General pathological conditions,achalasia,-2.288376738206423
+5,General pathological conditions,rarely,-2.3118674911567734
+5,General pathological conditions,excretion,-2.313600140279841
+5,General pathological conditions,smears,-2.3363472091598534
+5,General pathological conditions,cell lymphoma,-2.360717267631291
+5,General pathological conditions,during this,-2.371720033960531
+5,General pathological conditions,10,-2.3761323296686863
+5,General pathological conditions,abdominal,-2.380176831917036
+5,General pathological conditions,receptors,-2.386645312690922
+5,General pathological conditions,surviving,-2.3971885628175613
+5,General pathological conditions,the group,-2.4367074779208204
+5,General pathological conditions,cysts,-2.440514433534412
+5,General pathological conditions,we examined,-2.4453549157505123
+5,General pathological conditions,colon,-2.455054792111577
+5,General pathological conditions,and specific,-2.467677162055945
+5,General pathological conditions,gallbladder,-2.4955889573780965
+5,General pathological conditions,evaluation,-2.5478778329493603
+5,General pathological conditions,human,-2.6017643921996183
+5,General pathological conditions,more than,-2.6196507485476515
+5,General pathological conditions,dose,-2.6205745021215905
+5,General pathological conditions,99m,-2.6684846429561144
+5,General pathological conditions,pain in,-2.68811235320977
+5,General pathological conditions,painful,-2.7158059268909374
+5,General pathological conditions,level,-2.7313062833801838
+5,General pathological conditions,distal,-2.735778872404354
+5,General pathological conditions,parkinson,-2.7408937869475944
+5,General pathological conditions,clinical,-2.7496561502555017
+5,General pathological conditions,language,-2.754009368898796
+5,General pathological conditions,residents,-2.817005376933142
+5,General pathological conditions,infantile,-2.8345397959235745
+5,General pathological conditions,became,-2.8427742000846234
+5,General pathological conditions,two cases,-2.8655183925344376
+5,General pathological conditions,pressure,-2.874337608677045
+5,General pathological conditions,after injury,-2.9074542748343744
+5,General pathological conditions,of two,-2.9299664766976696
+5,General pathological conditions,liver,-2.944151085600425
+5,General pathological conditions,related to,-2.956314435501088
+5,General pathological conditions,year old,-2.962041531909877
+5,General pathological conditions,laser,-2.9989821511888057
+5,General pathological conditions,great,-3.0356122040073896
+5,General pathological conditions,embolism,-3.055224185281081
+5,General pathological conditions,cardiomyopathy,-3.1588399209606717
+5,General pathological conditions,intracranial,-3.2248928787746625
+5,General pathological conditions,tricuspid,-3.2432567528301206
+5,General pathological conditions,angioplasty,-3.255547357856615
+5,General pathological conditions,of coronary,-3.3006353205035843
+5,General pathological conditions,therapy,-3.358568939238708
+5,General pathological conditions,head and,-3.3620131195652125
+5,General pathological conditions,angiography,-3.3738155447670213
+5,General pathological conditions,cell,-3.389179851583786
+5,General pathological conditions,patients with,-3.3936837581951442
+5,General pathological conditions,probable,-3.4076885413258364
+5,General pathological conditions,nonsteroidal,-3.4487588732823133
+5,General pathological conditions,antigen,-3.4509653671390192
+5,General pathological conditions,spastic,-3.492738133904917
+5,General pathological conditions,radiation,-3.4978219356732905
+5,General pathological conditions,screening,-3.5485916632858814
+5,General pathological conditions,cushing,-3.562791035390276
+5,General pathological conditions,acquired,-3.579941062261312
+5,General pathological conditions,breast,-3.600772348705913
+5,General pathological conditions,inflammatory bowel,-3.6036485497621187
+5,General pathological conditions,pancreatitis,-3.604365757520174
+5,General pathological conditions,lower,-3.634604436615203
+5,General pathological conditions,and with,-3.645649591059364
+5,General pathological conditions,ulcer,-3.6551462046208467
+5,General pathological conditions,temporal,-3.689359268541459
+5,General pathological conditions,regurgitation,-3.7266675483767084
+5,General pathological conditions,blood pressure,-3.817863147379376
+5,General pathological conditions,staining,-3.853279689377795
+5,General pathological conditions,gait,-3.8645899178846532
+5,General pathological conditions,cancers,-3.909250296584952
+5,General pathological conditions,involvement,-3.9297405080477685
+5,General pathological conditions,atrial fibrillation,-3.933219250838681
+5,General pathological conditions,atrial,-3.952047743942179
+5,General pathological conditions,sleep,-3.9815843833482734
+5,General pathological conditions,diastolic,-4.0357201752175005
+5,General pathological conditions,cerebral,-4.0947359120325
+5,General pathological conditions,ischemia,-4.0949805078996855
+5,General pathological conditions,ischemic,-4.176992128935219
+5,General pathological conditions,neoplasm,-4.183477917012021
+5,General pathological conditions,sarcoma,-4.270465643416911
+5,General pathological conditions,gallstone,-4.27370661636582
+5,General pathological conditions,behavior,-4.302609073579673
+5,General pathological conditions,rehabilitation,-4.3707175308993556
+5,General pathological conditions,pd,-4.489242445192881
+5,General pathological conditions,cardiovascular,-4.504154509641378
+5,General pathological conditions,living,-4.556042490118712
+5,General pathological conditions,malignant,-4.649339813704062
+5,General pathological conditions,motor,-4.666244510825794
+5,General pathological conditions,left,-4.730045772849121
+5,General pathological conditions,left ventricular,-4.767246583676328
+5,General pathological conditions,metastases,-4.985661594674233
+5,General pathological conditions,apnea,-5.047357220622492
+5,General pathological conditions,disease,-5.09275276523509
+5,General pathological conditions,area,-5.136974573076496
+5,General pathological conditions,fragile,-5.147186485640788
+5,General pathological conditions,hepatic,-5.170901798497584
+5,General pathological conditions,diameter,-5.210250153152149
+5,General pathological conditions,esophageal,-5.282860530968833
+5,General pathological conditions,adenocarcinoma,-5.2831003548272175
+5,General pathological conditions,incontinence,-5.339442407685022
+5,General pathological conditions,mm hg,-5.382498519136056
+5,General pathological conditions,symptomatic,-5.509163616596565
+5,General pathological conditions,myeloma,-5.559810571216708
+5,General pathological conditions,tourette,-5.696012575537807
+5,General pathological conditions,median,-5.817228555576512
+5,General pathological conditions,seizure,-5.853030275783372
+5,General pathological conditions,nervous,-5.87223037756291
+5,General pathological conditions,literature,-6.002949938421004
+5,General pathological conditions,diagnosis of,-6.008640490108904
+5,General pathological conditions,spinal cord,-6.054917081487634
+5,General pathological conditions,lesions,-6.0675455966265766
+5,General pathological conditions,pylori,-6.093085571089152
+5,General pathological conditions,contrast,-6.21123728539421
+5,General pathological conditions,tumour,-6.244199427667355
+5,General pathological conditions,limb,-6.2854463590533545
+5,General pathological conditions,gallstones,-6.368921840258466
+5,General pathological conditions,thrombosis,-6.37997317860252
+5,General pathological conditions,heart,-6.594683560224526
+5,General pathological conditions,gastrointestinal,-6.7080619114575155
+5,General pathological conditions,stroke,-6.933308525711989
+5,General pathological conditions,subarachnoid hemorrhage,-7.097144901907468
+5,General pathological conditions,bowel,-7.097160440170566
+5,General pathological conditions,cervical,-7.147002659853558
+5,General pathological conditions,migraine,-7.14779850415075
+5,General pathological conditions,dysphagia,-7.554622824820259
+5,General pathological conditions,vascular,-7.6227519804667105
+5,General pathological conditions,brain,-7.69393212337823
+5,General pathological conditions,neurologic,-7.793161217921729
+5,General pathological conditions,carcinomas,-8.015447824219294
+5,General pathological conditions,endocarditis,-8.29792779469829
+5,General pathological conditions,peritonitis,-8.671070812263633
+5,General pathological conditions,lymphoblastic,-8.811872085974484
+5,General pathological conditions,hepatitis,-9.010132796843507
+5,General pathological conditions,headache,-9.040966129524346
+5,General pathological conditions,cyst,-9.092119155611792
+5,General pathological conditions,cirrhosis,-9.50903298099298
+5,General pathological conditions,meningitis,-9.587377557886924
+5,General pathological conditions,cholesterol,-9.694291172038968
+5,General pathological conditions,gastric,-9.846649697072674
+5,General pathological conditions,aortic,-10.41181044505743
+5,General pathological conditions,coronary,-11.011946206108346
+5,General pathological conditions,leukemia,-11.254237284150031
+5,General pathological conditions,seizures,-12.264306420114373
+5,General pathological conditions,septal,-12.62979063871051
+5,General pathological conditions,colitis,-13.13553011448346
+5,General pathological conditions,tachycardia,-13.378168903584667
+5,General pathological conditions,tumors,-15.0570550013876
+5,General pathological conditions,diarrhea,-15.662800320969502
+5,General pathological conditions,heart failure,-15.690125338235685
+5,General pathological conditions,melanoma,-16.07600430538238
+5,General pathological conditions,tumor,-17.971979885008217
+5,General pathological conditions,myocardial,-18.39202240228611
+5,General pathological conditions,hypertensive,-19.224915073790758
+5,General pathological conditions,carcinoma,-22.00392130978535
+5,General pathological conditions,cancer,-24.5846665433814
+5,General pathological conditions,hypertension,-25.35580026103091

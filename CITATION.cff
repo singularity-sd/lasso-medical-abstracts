@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Sparse L1 classification of medical abstracts after removing duplicated and conflicting texts"
+authors:
+  - name: "Singularity"
+year: 2026
+url: "https://github.com/singularity-sd/lasso-medical-abstracts"
+license: MIT
